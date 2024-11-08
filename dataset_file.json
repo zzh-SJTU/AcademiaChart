@@ -1,0 +1,2847 @@
+[
+    {
+        "figure_path": "neurips_figures/2310.07235/RelGradNormsByLayerAllInits.png",
+        "caption": "Relative gradient norms of feature (left axis, solid) and of attention (right axis, stylized) parameters for $l\\in[1,5,10]$ and $L=10$, sampled every $25$ epochs. Test accuracy is at the top. Both attention and feature gradients at the first, middle, and last layer of the network with both balanced initializations are much larger than with unbalanced initialization (note axis scales).",
+        "source": "neurips/2310.07235/theory.tex",
+        "arxiv_id": "neurips/2310.07235",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.07235/RelativechangeInParams.png",
+        "caption": "Frac. of sig. params with relative change $>0.5$",
+        "source": "neurips/2310.07235/theory.tex",
+        "arxiv_id": "neurips/2310.07235",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.07235/RelativeChangeInParams5Layer.png",
+        "caption": "Frac. of sig. params with relative change $>0.05$",
+        "source": "neurips/2310.07235/theory.tex",
+        "arxiv_id": "neurips/2310.07235",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.07235/FracZeroChange_SGD5Layer_v2.png",
+        "caption": "$L=5$",
+        "source": "neurips/2310.07235/appendix.tex",
+        "arxiv_id": "neurips/2310.07235",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.07234/Empirical_Analysis_v2.jpg",
+        "caption": "Empirical study of prompt-based continual learning under different pre-training paradigms.",
+        "source": "neurips/2310.07234/Camera_ready.tex",
+        "arxiv_id": "neurips/2310.07234",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.07123/beta-left_speed.png",
+        "caption": "Correlation between the beta power and HF provided by patients from all cinical sessions.",
+        "source": "neurips/2310.07123/main.tex",
+        "arxiv_id": "neurips/2310.07123",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2310.04655/ablation_supp_vr.png",
+        "caption": "ViLT-VR.",
+        "source": "neurips/2310.04655/neurips_2023.tex",
+        "arxiv_id": "neurips/2310.04655",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.03024/mask_fill_4.png",
+        "caption": "Example of the performance of the mask filling model.",
+        "source": "neurips/2310.03024/astroclip-arxiv-iclrstyle.tex",
+        "arxiv_id": "neurips/2310.03024",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.03024/mask_fill_3.png",
+        "caption": "Example of the performance of the mask filling model.",
+        "source": "neurips/2310.03024/astroclip-arxiv-iclrstyle.tex",
+        "arxiv_id": "neurips/2310.03024",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.03024/mask_fill_2.png",
+        "caption": "Example of the performance of the mask filling model.",
+        "source": "neurips/2310.03024/astroclip-arxiv-iclrstyle.tex",
+        "arxiv_id": "neurips/2310.03024",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.03024/attention_1.png",
+        "caption": "Examples of attention maps of the cross-attention layer of the spectrum encoder.",
+        "source": "neurips/2310.03024/astroclip-arxiv-iclrstyle.tex",
+        "arxiv_id": "neurips/2310.03024",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.02230/color_diff_vs_ood_metric_comparison.png",
+        "caption": "ColorDSprites",
+        "source": "neurips/2310.02230/main.tex",
+        "arxiv_id": "neurips/2310.02230",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.01835/rel_test_10.png",
+        "caption": "Top 10.",
+        "source": "neurips/2310.01835/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2310.01835",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.01835/lab_hom_10.png",
+        "caption": "Top 10.",
+        "source": "neurips/2310.01835/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2310.01835",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.01835/vt_detections.png",
+        "caption": "Distribution of VirusTotal detections per label.",
+        "source": "neurips/2310.01835/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2310.01835",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.01835/labels.png",
+        "caption": "Distribution of sample count per labels with respect to the data subset.",
+        "source": "neurips/2310.01835/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2310.01835",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.01455/s128b40_metrics.png",
+        "caption": "Log-log plot showing the resulting metrics of design points sampled in the Sobol stage (orange dots) and the Bayesian optimisation stage (purple squares) where the darker the colour of a Bayesian point, the later the iteration that design point corresponds to. Stars indicate the non-dominated points--the Pareto optimal design points.",
+        "source": "neurips/2310.01455/main.tex",
+        "arxiv_id": "neurips/2310.01455",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2310.00675/res_all_KF.png",
+        "caption": "",
+        "source": "neurips/2310.00675/main.tex",
+        "arxiv_id": "neurips/2310.00675",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2310.00675/tars_toy.png",
+        "caption": "Toy",
+        "source": "neurips/2310.00675/main.tex",
+        "arxiv_id": "neurips/2310.00675",
+        "type": "Others"
+    },
+    {
+        "figure_path": "neurips_figures/2309.16342/2D_DAM_100.png",
+        "caption": "Our results.",
+        "source": "neurips/2309.16342/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2309.16342",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.16342/2D_PF_60.png",
+        "caption": "Comparison of SPH ($\\circ$) and series solutions ($-$) for Poiseuille flow at $Re=0.0125$.",
+        "source": "neurips/2309.16342/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2309.16342",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.16342/scaling.png",
+        "caption": "Scaling evaluation on all datasets. The $x$-axis shows the amount of available data, and the $y$-axis shows the position MSE loss values. The model is GNS-10-64 trained for 1M steps (with 40k steps early stopping). Every mark represents a new GNS instance trained with a different amount of data.",
+        "source": "neurips/2309.16342/neurips_data_2023.tex",
+        "arxiv_id": "neurips/2309.16342",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.16115/figures_composition2_indep_param_beta32_base_gflownets_32.png",
+        "caption": "Base at \\(\\beta=32\\)",
+        "source": "neurips/2309.16115/main.tex",
+        "arxiv_id": "neurips/2309.16115",
+        "type": "Others"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/ADNI_AV1.png",
+        "caption": "Visualization of the canonical correlation results of ADNI for the total five projection dimensions ($r$). All the methods are applied to both the entire dataset and individual subgroups. The closer each subgroup's curve is to the overall curve, the better.",
+        "source": "neurips/2309.15809/fair_cca/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/X_CCA.png",
+        "caption": "Scatter plot of the synthetic data points after projected to the 2-dimensional space. The distributions of the two groups after projection by CCA are orthogonal to each other. Our SF-CCA and MF-CCA can make the distributions of the two groups close to each other.",
+        "source": "neurips/2309.15809/sec_exp.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/runtime_K.png",
+        "caption": "Computation time (mean$\\pm$std) of 10 repeated experiments for the total seven projection dimensions on synthetic data comprising varying numbers of subgroups ($K$). The number of features is fixed at $d=100$.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/runtime_fixP.png",
+        "caption": "Computation time (mean$\\pm$std) of 10 repeated experiments for the total three projection dimensions on synthetic data comprising four subgroups ($K$). The number of features is fixed at $d=100$, and the number of groups is held constant at $K=5$, while the number of samples varies.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/runtime_fixN.png",
+        "caption": "Computation time (mean$\\pm$std) of 10 repeated experiments for the total three projection dimensions on synthetic data comprising four subgroups ($K$). The number of samples is fixed at $N=2000$, while the number of features varies.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/lambda_sensitivity_SYNTHE.png",
+        "caption": "Sensitivity of correlation and disparity error to $\\lambda$ in SF-CCA framework. Higher $\\lambda$ emphasizes fairness over correlation (accuracy). Moving right to left, accuracy drops as fairness improves (smaller disparity). A notable trend links higher correlation with reduced fairness.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/UCLA1.png",
+        "caption": "Visualization of the canonical correlation results of MHAAPS (Sex) for the total two projection dimensions ($r$). All the methods are applied to both the entire dataset and individual subgroups. The closer each subgroup's curve is to the overall curve, the better.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/NHA_EDU1.png",
+        "caption": "Visualization of the canonical correlation results of NHANES (Education \\& Race) for the total five projection dimensions ($r$). All the methods are applied to both the entire dataset and individual subgroups. The closer each subgroup's curve is to the overall curve, the better.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/Synthetic_Data1.png",
+        "caption": "Visualization of the canonical correlation results on synthetic data for the total five projection dimensions ($r$). All the methods are applied to both the entire dataset and individual subgroups. The closer each subgroup's curve is to the overall curve, the better.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/disparity_K.png",
+        "caption": "Aggregate disparity of 1st projection dimension on synthetic data comprising varying numbers of subgroups ($K$).",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15809/Bar_Syn.png",
+        "caption": "Group distributions of the studied datasets.",
+        "source": "neurips/2309.15809/sec_add_b.tex",
+        "arxiv_id": "neurips/2309.15809",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15286/Dataset_GENES_pointsetsize.jpg",
+        "caption": "Local Optimality ($1+\\eps$) against Number of Points in the Base Set for $k = 5,10,15,20$.",
+        "source": "neurips/2309.15286/main.tex",
+        "arxiv_id": "neurips/2309.15286",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.15286/Dataset_GENESExp1_3000_5iters.jpg",
+        "caption": "Local Optimality ($1+\\eps$) against $k$ for GENES and MNIST datasets, and random datasets of the same dimension. Each stream had $10$ point sets of size $3000$, with $k$ ranging from $1$ to $20$.",
+        "source": "neurips/2309.15286/main.tex",
+        "arxiv_id": "neurips/2309.15286",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/ml10_10latent_longer_indiv.png",
+        "caption": "Our ML10 Results",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/combined_obj.png",
+        "caption": "Tuning Combined Weighting",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/ti_traintime.png",
+        "caption": "Grid-World LR",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/ti_grid.png",
+        "caption": "Walker",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/analysis_return.png",
+        "caption": "Walker Latent Gradient Norm",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/walker_rnn.png",
+        "caption": "Cheetah-Vel",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/grid_rnn.png",
+        "caption": "Grid Show",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/mc-ls-precollect.png",
+        "caption": "RNN+HN outperforms VI+HN on MC-LS (MineCraft) environment.",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/walker.png",
+        "caption": "Cheetah-Vel",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/grid.png",
+        "caption": "Grid Show",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14970/walker_hyper_rnn.png",
+        "caption": "Cheetah-Dir",
+        "source": "neurips/2309.14970/neurips_2023.tex",
+        "arxiv_id": "neurips/2309.14970",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14502/FNAL_uq_result.png",
+        "caption": "The results from DGPA surrogate model of the FNAL Booster Accelerator. (a) Shows the predictions on the in-distribution and OOD samples along with the associated uncertainty values. The middle region with the high frequency component on the time series represents OOD samples while the initial and tail-end regions represent in-distribution data samples. (b) Shows the predictions and uncertainty values for the synthetic case where the data is intentionally made to enter an OOD region.",
+        "source": "neurips/2309.14502/main.tex",
+        "arxiv_id": "neurips/2309.14502",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14502/Siamese_Results_v4.png",
+        "caption": "The results on errant beam predictions from SNGP-SNN model. (a) ROC curves with the bands created by smearing the predictions with associated uncertainty values. (b) The scatter plot representing classifier output vs uncertainty values.",
+        "source": "neurips/2309.14502/main.tex",
+        "arxiv_id": "neurips/2309.14502",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2309.14062/curves.png",
+        "caption": "Singular values",
+        "source": "neurips/2309.14062/method.tex",
+        "arxiv_id": "neurips/2309.14062",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13896/holder-space.png",
+        "caption": "Comparison of convergence under different $\\phi$ functions (e.g., linear and those in Holder space).",
+        "source": "neurips/2309.13896/sec-appendix.tex",
+        "arxiv_id": "neurips/2309.13896",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13786/g_female_black_n_100_m_cvar.png",
+        "caption": "Learning tighter bounds on functionals of interest for protected groups. On the left, a bound is optimized for CVaR with $\\beta=0.75$, and on the right a bound is optimized for the VaR Interval $[0.5, 0.9]$. In both cases the optimized bounds are tightest on both the target metric as well as the mean, illustrating the power of adaptation both to particular quantile ranges as well as real loss distributions.",
+        "source": "neurips/2309.13786/appendix_exp.tex",
+        "arxiv_id": "neurips/2309.13786",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13786/smooth_delta.png",
+        "caption": "Plot of smoothed median function with $\\beta=0.5$ and $a=0.01$",
+        "source": "neurips/2309.13786/appendix_exp.tex",
+        "arxiv_id": "neurips/2309.13786",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13786/ml-1m_recall_atkinson_1.0_t_vs_b.png",
+        "caption": "We select two hypotheses $h_0$ and $h_1$ with different bounds on Atkinson index produced using 2000 validation samples, and once again visualize the Lorenz curves induced by each. Tighter control on the Atkinson index leads to a more equal distribution of the loss (especially across the middle of the distribution, which aligns with the choice of $\\epsilon$), highlighting the utility of being able to target such a metric in conservative model selection.",
+        "source": "neurips/2309.13786/06_experiment.tex",
+        "arxiv_id": "neurips/2309.13786",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13786/rxrx1_balanced_acc_expected_gini_2500_val.png",
+        "caption": "Left: Bounds on the expected loss, scaled Gini coefficient, and total objective across different hypotheses. Right: Lorenz curves induced by choosing a hypothesis based on the expected loss bound versus the bound on the total objective. The y-axis shows the cumulative share of the loss that is incurred by the best-off $\\beta$ proportion of the population, where a perfectly fair predictor would produce a distribution along the line $y=x$.",
+        "source": "neurips/2309.13786/06_experiment.tex",
+        "arxiv_id": "neurips/2309.13786",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13378/app_loss.png",
+        "caption": "Training losses and evaluation losses on AIR-BJ. w: with. w/o: without.",
+        "source": "neurips/2309.13378/main_crv.tex",
+        "arxiv_id": "neurips/2309.13378",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.13377/label_imbalance_camelyon_isic.png",
+        "caption": "Number of datapoints separated by class for Camelyon-17 and ISIC datasets. There is significant label imbalance for the ISIC dataset.",
+        "source": "neurips/2309.13377/main.tex",
+        "arxiv_id": "neurips/2309.13377",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.11702/exp_2_regret.png",
+        "caption": "Ablation study on heuristic search (w.r.t $D^p_\\star \\in [1, 10, 100]$).",
+        "source": "neurips/2309.11702/experiments.tex",
+        "arxiv_id": "neurips/2309.11702",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.11702/exp_1_syn_cost_1.png",
+        "caption": "Comparison between payment-free vs. payment-efficient incentive designs.",
+        "source": "neurips/2309.11702/experiments.tex",
+        "arxiv_id": "neurips/2309.11702",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.11702/ablation_movie_reward_plot.png",
+        "caption": "Ablation study on heuristic search (w.r.t $D^p_\\star \\in [1, 10, 100]$).",
+        "source": "neurips/2309.11702/appendix.tex",
+        "arxiv_id": "neurips/2309.11702",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2309.11702/exp_1_movielens_cost_1.png",
+        "caption": "Comparison between payment-free vs. payment-efficient incentive designs.",
+        "source": "neurips/2309.11702/appendix.tex",
+        "arxiv_id": "neurips/2309.11702",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.11600/hyper_appendix.jpg",
+        "caption": "Extended Analysis on Hyperparameter Sensitivity.",
+        "source": "neurips/2309.11600/body.tex",
+        "arxiv_id": "neurips/2309.11600",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.07867/distance_plot.png",
+        "caption": "\\small Comparison of the statistical distances between the true and generated data distributions over the course of training. The blue, green, and orange curves are for ``Gauss ELBO,'' ``Beta ELBO,'' and ``Beta KLUB,'' respectively. From the left to right are the plots for Wasserstein-1 distance, Jensen--Shannon divergence, and Hellinger distance, respectively.",
+        "source": "neurips/2309.07867/beta_diffusion_v2.tex",
+        "arxiv_id": "neurips/2309.07867",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.06402/FigXINN-01.png",
+        "caption": "Invertible Neural Network readouts produce qualitatively similar results to Flow readout models. Data shown is the same as Fig. 2C, except overlaid with INN readout model (purple)",
+        "source": "neurips/2309.06402/supp.tex",
+        "arxiv_id": "neurips/2309.06402",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.06402/SupFigXDynAccuracy-Arneodo-Unwarped_Linear-01.png",
+        "caption": "Linear-NODE trained on synthetic neural activity from linearly-embedded Arneodo system",
+        "source": "neurips/2309.06402/supp.tex",
+        "arxiv_id": "neurips/2309.06402",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.06402/InjectivityBarPlot-01.png",
+        "caption": "Injectivity of the Flow readout across state dimensionalities. Each bar indicates the mean value of 5 randomly initialized ODIN models for each state dimensionality. Results from individual models are plotted as points.",
+        "source": "neurips/2309.06402/supp.tex",
+        "arxiv_id": "neurips/2309.06402",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2309.06402/FigXHyperparams-01.png",
+        "caption": "Example hyperparameter sweeps for ODIN and MLP-NODE",
+        "source": "neurips/2309.06402/supp.tex",
+        "arxiv_id": "neurips/2309.06402",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2308.14364/RL_ENHANCE.png",
+        "caption": "Comparison of the results of enhancements to PPO.",
+        "source": "neurips/2308.14364/main.tex",
+        "arxiv_id": "neurips/2308.14364",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2308.14364/RL_ALGS.png",
+        "caption": "Comparison of various RL algorithms.",
+        "source": "neurips/2308.14364/main.tex",
+        "arxiv_id": "neurips/2308.14364",
+        "type": null
+    },
+    {
+        "figure_path": "neurips_figures/2308.12580/human_reasons_for_limitations.png",
+        "caption": "Reasons that served as limitations while evaluating the effort to reproduce.",
+        "source": "neurips/2308.12580/effortly.tex",
+        "arxiv_id": "neurips/2308.12580",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2308.12580/human_reasons_for_difficulty.png",
+        "caption": "Reasons that made it difficult to reproduce.",
+        "source": "neurips/2308.12580/effortly.tex",
+        "arxiv_id": "neurips/2308.12580",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2308.12580/human_reasons_for_easiness.png",
+        "caption": "Reasons that eased the effort to reproduce.",
+        "source": "neurips/2308.12580/effortly.tex",
+        "arxiv_id": "neurips/2308.12580",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2308.08778/joint.png",
+        "caption": "",
+        "source": "neurips/2308.08778/experiments.tex",
+        "arxiv_id": "neurips/2308.08778",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2308.08778/color_noises_1.png",
+        "caption": "Test color noise $e = 0.1$",
+        "source": "neurips/2308.08778/appendix.tex",
+        "arxiv_id": "neurips/2308.08778",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2308.04024/Pong.png",
+        "caption": "RL Loss Comparison Training Curves",
+        "source": "neurips/2308.04024/main.tex",
+        "arxiv_id": "neurips/2308.04024",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2307.13855/rohrer100k_pvals1.png",
+        "caption": "Learned values of $p$ in first SCS layer for Rohrer100K on CIFAR-10 ($32 \\times 32$, Initial Testing).",
+        "source": "neurips/2307.13855/main.tex",
+        "arxiv_id": "neurips/2307.13855",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.10810/2.png",
+        "caption": "Experimental results",
+        "source": "neurips/2307.10810/main.tex",
+        "arxiv_id": "neurips/2307.10810",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.10524/beta.png",
+        "caption": "Average awards with varying choices of the hyper-parameter $\\beta$ in the robustness budget of \\ouralg. Shadow area depicts the range of standard deviations for $5$ random tests. Left: $\\beta=1, 10,10^2,10^3$, and $\\infty$ (directly applying the MPC baseline); Right: $\\beta=0, 0.05, 0.5, 1$, and $\\infty$.",
+        "source": "neurips/2307.10524/main.tex",
+        "arxiv_id": "neurips/2307.10524",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.08863/ipd_ablation_8.png",
+        "caption": "Ablation experiment on the Iterated Prisoner's Dilemma. We show the effect of disabling exploration, using only $k$-step TD errors, using only one-step TD errors, disabling distributional RL, disabling target networks, using the $V$ formulation over the $U$ formulation, and training with a fixed $\\gamma=0.95$. For each configuration (row) we train 5 models for 500 outer loops. In the leftmost column, we show short-term TD error (over $k=10$ steps, as in training) and long-term TD error (over 100 steps, as a validation); the difference between these is due to bootstrapping. The horizontal axis measures number of outer loops performed. In the middle column, the returns $f(x)$ of agents that are being trained on the model (with $\\gamma=0.95$) and are reset every 10 outer loops. For those agents we continually test their exploitability; the third column shows their returns against agents trained to exploit them.",
+        "source": "neurips/2307.08863/main.tex",
+        "arxiv_id": "neurips/2307.08863",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.07907/causal_mask_prob_WipeCausal_all.png",
+        "caption": "Estimated Causal Graphs of the Wipe task in Robosuite.",
+        "source": "neurips/2307.07907/camera_ready.tex",
+        "arxiv_id": "neurips/2307.07907",
+        "type": null
+    },
+    {
+        "figure_path": "neurips_figures/2307.07907/causal_mask_prob_DoorCausal_all.png",
+        "caption": "Estimated Causal Graphs of the Door task in Robosuite.",
+        "source": "neurips/2307.07907/camera_ready.tex",
+        "arxiv_id": "neurips/2307.07907",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "neurips_figures/2307.07907/causal_mask_prob_StackCausal_all.png",
+        "caption": "Estimated Causal Graphs of the Stack task in Robosuite.",
+        "source": "neurips/2307.07907/camera_ready.tex",
+        "arxiv_id": "neurips/2307.07907",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "neurips_figures/2307.07907/causal_mask_prob_LiftCausal_all.png",
+        "caption": "Estimated Causal Graphs of the Lift task in Robosuite.",
+        "source": "neurips/2307.07907/camera_ready.tex",
+        "arxiv_id": "neurips/2307.07907",
+        "type": null
+    },
+    {
+        "figure_path": "neurips_figures/2307.07907/causal_graph.png",
+        "caption": "Estimated Causal Graphs of four tasks in Carla.",
+        "source": "neurips/2307.07907/camera_ready.tex",
+        "arxiv_id": "neurips/2307.07907",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "neurips_figures/2307.05916/loss_curve_sex.png",
+        "caption": "Validation AUROC per training epoch for sex classification",
+        "source": "neurips/2307.05916/NeurIPS_main.tex",
+        "arxiv_id": "neurips/2307.05916",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.05916/window_analysis_all.png",
+        "caption": "Inner-subject accuracy of sex classification.",
+        "source": "neurips/2307.05916/NeurIPS_main.tex",
+        "arxiv_id": "neurips/2307.05916",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/cifar_mean_acttanh_width256_label0.png",
+        "caption": "$m=512$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/cifar_mean_actelu_width64.png",
+        "caption": "$m=128$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/cifar_mean_width64.png",
+        "caption": "$m=128$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/multiple_mean_size2.png",
+        "caption": "$n=4$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/single_depth10_width64.png",
+        "caption": "$m=128$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/single_depth3_width64.png",
+        "caption": "$m=128$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/single_depth3_width256_scale0.5.png",
+        "caption": "$\\alpha=1.0$",
+        "source": "neurips/2307.04204/A1_exp.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/depth3_width64_scale5.png",
+        "caption": "$m=256$, $L=3$",
+        "source": "neurips/2307.04204/3_GDalign.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "neurips_figures/2307.04204/linear_depth2_width256_scale3.png",
+        "caption": "$\\alpha=10$",
+        "source": "neurips/2307.04204/3_GDalign.tex",
+        "arxiv_id": "neurips/2307.04204",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "kdd_figures/2307.10213/Figure_2.jpg",
+        "caption": "Confusion matrix for hate speech detection.",
+        "source": "kdd/2307.10213/paper.tex",
+        "arxiv_id": "kdd/2307.10213",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "kdd_figures/2307.00653/MainGraph.png",
+        "caption": "Comparison of NLM and backtracking convergence time",
+        "source": "kdd/2307.00653/biblio.tex",
+        "arxiv_id": "kdd/2307.00653",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.14126/non-defense.png",
+        "caption": "Comparison of traffic forecasting model performance under adversarial attack. (a) Results without defense, showing biased predictions under attack. (b) Results with adversarial training, showing improved robustness and similar predictions to original model.",
+        "source": "kdd/2306.14126/sample-lualatex.tex",
+        "arxiv_id": "kdd/2306.14126",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.10079/score1.png",
+        "caption": "The tuning results of prediction threshold $\\pi$ on the two datasets.",
+        "source": "kdd/2306.10079/042exp_correct.tex",
+        "arxiv_id": "kdd/2306.10079",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.10079/image_encoder.png",
+        "caption": "The precision of top-3/5 tags for the POIs on on MPTD2 predicted by the M3PTs with different image encoders.",
+        "source": "kdd/2306.10079/042exp_correct.tex",
+        "arxiv_id": "kdd/2306.10079",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.09364/patch_embedd_fig.jpg",
+        "caption": "Correlation between Patch time-series and its associated embeddings.",
+        "source": "kdd/2306.09364/main.tex",
+        "arxiv_id": "kdd/2306.09364",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04643/validation_sse.png",
+        "caption": "Cross Validation SSE.",
+        "source": "kdd/2306.04643/main.tex",
+        "arxiv_id": "kdd/2306.04643",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04643/PCA.png",
+        "caption": "PCA Visualization of the Clustering Result.",
+        "source": "kdd/2306.04643/main.tex",
+        "arxiv_id": "kdd/2306.04643",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04643/select_k.png",
+        "caption": "WCSS and DBI vs Number of Cluster Plot.",
+        "source": "kdd/2306.04643/main.tex",
+        "arxiv_id": "kdd/2306.04643",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04643/benford.png",
+        "caption": "Our observation of the dataset's first digit distribution vs. expectation of the distribution according to Benford's law.",
+        "source": "kdd/2306.04643/main.tex",
+        "arxiv_id": "kdd/2306.04643",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04370/time.png",
+        "caption": "Proportion distribution of clicks between users and five major food categories in four different time periods. Note that the sum of the proportions of the five food categories in each time period is equal to 1.",
+        "source": "kdd/2306.04370/Introduction.tex",
+        "arxiv_id": "kdd/2306.04370",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04370/large_time_graph_auc.png",
+        "caption": "Impact of period-varying modeling on results for different time periods on AUC metric in MT-large dataset.",
+        "source": "kdd/2306.04370/Appendix.tex",
+        "arxiv_id": "kdd/2306.04370",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04370/small_time_graph_auc.png",
+        "caption": "Impact of period-varying modeling on results for different time periods on AUC metric in MT-small dataset.",
+        "source": "kdd/2306.04370/Appendix.tex",
+        "arxiv_id": "kdd/2306.04370",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.04039/mips_vs_mol_gpu_util_mem_v1.png",
+        "caption": "Infra efficiency in production: GPU utilization and peak memory scaling with serving FLOPs.",
+        "source": "kdd/2306.04039/main.tex",
+        "arxiv_id": "kdd/2306.04039",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2306.02679/dbp_viz.png",
+        "caption": "Visualization of the entity embeddings of five popular types in \\dbpfivem.",
+        "source": "kdd/2306.02679/sect7_app.tex",
+        "arxiv_id": "kdd/2306.02679",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "kdd_figures/2305.18885/TA.png",
+        "caption": "TA",
+        "source": "kdd/2305.18885/0.0.KDD2023_full.tex",
+        "arxiv_id": "kdd/2305.18885",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2305.18885/TA_mceg.png",
+        "caption": "",
+        "source": "kdd/2305.18885/0.0.KDD2023_full.tex",
+        "arxiv_id": "kdd/2305.18885",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2304.01166/char21.png",
+        "caption": "Correlation matrix after a proposed feature extraction method",
+        "source": "kdd/2304.01166/Experiment_Details.tex",
+        "arxiv_id": "kdd/2304.01166",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2304.01166/chart1.png",
+        "caption": "Results of the proposed model",
+        "source": "kdd/2304.01166/Experiment_Details.tex",
+        "arxiv_id": "kdd/2304.01166",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.13522/tiny_gpu_stats.png",
+        "caption": "GPU streaming multiprocessor utilization for IGB-tiny.",
+        "source": "kdd/2302.13522/experiment.tex",
+        "arxiv_id": "kdd/2302.13522",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.13522/full_gpu_stats.png",
+        "caption": "GPU streaming multiprocessor utilization for IGB.",
+        "source": "kdd/2302.13522/experiment.tex",
+        "arxiv_id": "kdd/2302.13522",
+        "type": "Histogram"
+    },
+    {
+        "figure_path": "kdd_figures/2302.11159/dtw5.png",
+        "caption": "Different Adjacency Graphs",
+        "source": "kdd/2302.11159/methods.tex",
+        "arxiv_id": "kdd/2302.11159",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "kdd_figures/2302.09178/divergence.png",
+        "caption": "Example of loss divergence in our model and its impact on training loss (top) and AUC (bottom). In this example, model-a's loss micro-diverged then recovered, whereas model-b's loss fully-diverged.",
+        "source": "kdd/2302.09178/background.tex",
+        "arxiv_id": "kdd/2302.09178",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.09178/xformer-comparison.png",
+        "caption": "A comparison of AdamW, Adagrad and Adagrad with Clippy on the task for English to German translation.",
+        "source": "kdd/2302.09178/appendix.tex",
+        "arxiv_id": "kdd/2302.09178",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.05549/running_time_v2.png",
+        "caption": "Running Time of DistMS in Spark on a 10 Million dataset",
+        "source": "kdd/2302.05549/sample-sigconf.tex",
+        "arxiv_id": "kdd/2302.05549",
+        "type": null
+    },
+    {
+        "figure_path": "kdd_figures/2302.02592/figure7a.png",
+        "caption": "Effects of maximizing traffic value.",
+        "source": "kdd/2302.02592/src-projname.tex",
+        "arxiv_id": "kdd/2302.02592",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.02592/figure6.png",
+        "caption": "At different training episodes, the trends of cumulative reward at all 288 decision steps.",
+        "source": "kdd/2302.02592/src-projname.tex",
+        "arxiv_id": "kdd/2302.02592",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.02592/figure_5b.png",
+        "caption": "The curves of cumulative reward and delivery completion rate during training (30,000 episodes).",
+        "source": "kdd/2302.02592/src-projname.tex",
+        "arxiv_id": "kdd/2302.02592",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2302.01416/mae_rmse_per_domain.png",
+        "caption": "RMSE(top) and MAE(bottom) of GLM(blue) and our multimodal neural network(orange) evaluated on each domain.",
+        "source": "kdd/2302.01416/preprint.tex",
+        "arxiv_id": "kdd/2302.01416",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2210.14309/gammaNDCG.png",
+        "caption": "The NDCG@50 of head, tail and overall performance w.r.t different $\\gamma$.",
+        "source": "kdd/2210.14309/sample-sigconf.tex",
+        "arxiv_id": "kdd/2210.14309",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2210.14309/ExpertGate.png",
+        "caption": "Gate value of memorization-focused and generalization-focused experts for head (blue) and tail (orange) items. In CDN, head items put more weights on memorization-focused experts while tail items put more weights on generalization-focused experts",
+        "source": "kdd/2210.14309/sample-sigconf.tex",
+        "arxiv_id": "kdd/2210.14309",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2205.10053/pubmed_alpha.png",
+        "caption": "Effect of $\\alpha$.",
+        "source": "kdd/2205.10053/main.tex",
+        "arxiv_id": "kdd/2205.10053",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2112.06668/dropout_rate.png",
+        "caption": "The impact of different dropout rates for CT4Rec and SASRec* on the Beauty dataset.",
+        "source": "kdd/2112.06668/4-Results.tex",
+        "arxiv_id": "kdd/2112.06668",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2106.04486/graph_plot_topK_time.png",
+        "caption": "(a) \\methodgraph-K scales linearly with factor $K$. (b) Linear scalability with number of hash functions. (c) Linear scalability with number of edges.",
+        "source": "kdd/2106.04486/sample-sigconf.tex",
+        "arxiv_id": "kdd/2106.04486",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "kdd_figures/2106.04486/edge_plot_hashfn_time.png",
+        "caption": "(a) Linear scalability with number of hash functions. (b) Linear scalability with number of edges.",
+        "source": "kdd/2106.04486/sample-sigconf.tex",
+        "arxiv_id": "kdd/2106.04486",
+        "type": null
+    },
+    {
+        "figure_path": "icra_figures/2210.14055/blocks_world_comparison_latest_errbars_withgreedy.png",
+        "caption": "Figure shows solve rate as a function of planning time. Table reports percentage of problems solved within 90 second timeout. All variants of $\\lifted$ use the LevinTS priority function with the learned policy. We report the mean and standard deviation across 5 random seeds for each method.",
+        "source": "icra/2210.14055/ICRA_2023_-_Camera_Ready/root.tex",
+        "arxiv_id": "icra/2210.14055",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2210.14055/blocks_world_comparison_latest_errbars_withgreedy.png",
+        "caption": "Figure shows solve rate as a function of planning time. Table reports percentage of problems solved within 90 second timeout. All variants of $\\lifted$ use the LevinTS priority function with the learned policy. We report the mean and standard deviation across 5 random seeds for each method.",
+        "source": "icra/2210.14055/root.tex",
+        "arxiv_id": "icra/2210.14055",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2209.08258/Prediction_Comparison.png",
+        "caption": "Comparison of the failure ratio between our proposed method and the linear predictor in three different simulation environments.",
+        "source": "icra/2209.08258/main.tex",
+        "arxiv_id": "icra/2209.08258",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "icra_figures/2209.07003/vel_plot.png",
+        "caption": "The velocity profile of a physical flight test for each axis. The velocity data are obtained using the onboard visual-inertial state estimation.",
+        "source": "icra/2209.07003/main.tex",
+        "arxiv_id": "icra/2209.07003",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2209.07003/runtime.png",
+        "caption": "The recorded average runtime for each component of our system. The entire system is able to run in real-time by the onboard computer.",
+        "source": "icra/2209.07003/main.tex",
+        "arxiv_id": "icra/2209.07003",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "icra_figures/2209.07003/guide_point.png",
+        "caption": "Illustration of circle-based guide-point assignment. For the given collision trajectory, we first find the collision control points and search the collision-free paths. The guide points shown as purple points are the intersections between circle-based raycasting and the searched paths.",
+        "source": "icra/2209.07003/main.tex",
+        "arxiv_id": "icra/2209.07003",
+        "type": null
+    },
+    {
+        "figure_path": "icra_figures/2209.04346/PacejkaFit.png",
+        "caption": "Data points obtained from the steady-state cornering experiment and the resulting model fit of the Pacejka model. Outliers are marked red, inliers green, and the model prediction is shown in blue for a fixed load of 16.4\\,N on the front axle and 18.6\\,N on the rear axle.",
+        "source": "icra/2209.04346/main.tex",
+        "arxiv_id": "icra/2209.04346",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2207.00721/TPUvsPP.png",
+        "caption": "The comparison between end-effectors that are printed with TPU (a and b) and PP (c and d). Radius of the circle varies between 30 mm and 10 mm, colors indicating different radii (a and c). As the distance between the stylus pen and the touchpad reduces, the shape changes due to the compliance of the end-effector (b and d). The effect of the material is clearly observed. Since the PP end-effector cannot conform to the environment as well as TPU end-effector, it snapped off of the forearms, hence resulting with a non-uniform shape (green line).",
+        "source": "icra/2207.00721/root.tex",
+        "arxiv_id": "icra/2207.00721",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2207.00721/rewards_combined.png",
+        "caption": "Gaussian plots of rewards across different robots.",
+        "source": "icra/2207.00721/root.tex",
+        "arxiv_id": "icra/2207.00721",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2207.00721/REPS_2_rho_theta_policy_0.png",
+        "caption": "Convergence of parameters for a single Robot.",
+        "source": "icra/2207.00721/root.tex",
+        "arxiv_id": "icra/2207.00721",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2207.00721/rewards_combined.png",
+        "caption": "Gaussian plots for rewards over all the experiments over the 3 robots. There is significant overlap in the convergence trends across all 3 robots.",
+        "source": "icra/2207.00721/RoboMath.tex",
+        "arxiv_id": "icra/2207.00721",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2207.00721/REPS_2_rho_theta_policy_0.png",
+        "caption": "Convergence of Gaussian curves over training epochs for all the parameters of a robot in 1 experiment.",
+        "source": "icra/2207.00721/RoboMath.tex",
+        "arxiv_id": "icra/2207.00721",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2204.03698/dynamics.png",
+        "caption": "Open loop trajectories of two ring finger joint angles $q_1$ and $q_3$ following previously recorded target positions of a trained policy. In blue we show $15$ individual real trajectories across three robot initializations, and in red $50$ individual simulation trajectories each with dynamics sampled from the domain randomization distribution used for training. The dashed lines indicate the range of the geometric randomization.",
+        "source": "icra/2204.03698/2022-icra-manipulation.tex",
+        "arxiv_id": "icra/2204.03698",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2109.07024/distance_bar.png",
+        "caption": "Histogram of distances when meeting obstacles. The proposed method ensures the quadrotor keeps a safe distance from obstacles.",
+        "source": "icra/2109.07024/root.tex",
+        "arxiv_id": "icra/2109.07024",
+        "type": "Box Plot"
+    },
+    {
+        "figure_path": "icra_figures/2109.07024/obstacle_distance.png",
+        "caption": "Comparison of the change of the obstacle distance with respect to time when meeting the future colliding obstacle. The proposed method has a larger average minimum distance from obstacles.",
+        "source": "icra/2109.07024/root.tex",
+        "arxiv_id": "icra/2109.07024",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2108.05297/VLy2.png",
+        "caption": "Plot of value of Lyapunov function during numerical simulation.",
+        "source": "icra/2108.05297/simStudy.tex",
+        "arxiv_id": "icra/2108.05297",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2108.04531/plot_data.png",
+        "caption": "10 minutes time-series latency when 100 robots (using simulator) connected. There is no interruption and the performance was stable. Some larger delay, however, were also recorded in some occasions; 5-10 times during a 10 minute trial.",
+        "source": "icra/2108.04531/root.tex",
+        "arxiv_id": "icra/2108.04531",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2108.04531/plot_avg.png",
+        "caption": "Average latency between robots and the management system with varying number of connected robots 1, 10 and 100. Upstream latency is average value of continuous data acquisition for 10 minutes which contains two relay points on the path and end point. Downstream latency is average value of 10 commands while collecting data. Target turn around time (c) + (d) is within 1.0 second and could be cleared under those number of robots.",
+        "source": "icra/2108.04531/root.tex",
+        "arxiv_id": "icra/2108.04531",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2107.05998/compensation_error.png",
+        "caption": "Absolute error of the movement compensation algorithm. Two motion types (translation and rotation) over $10$ trials are displayed.",
+        "source": "icra/2107.05998/text_final.tex",
+        "arxiv_id": "icra/2107.05998",
+        "type": "Box Plot"
+    },
+    {
+        "figure_path": "icra_figures/2107.05998/2DPosition_error.png",
+        "caption": "Trajectory following results. The solid lines represent the trajectories. The dotted lines are the computed and real position error.",
+        "source": "icra/2107.05998/text_final.tex",
+        "arxiv_id": "icra/2107.05998",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2107.05998/compensation_error.png",
+        "caption": "The absolute error of the movement compensation algorithm. Two different movement types (translation and rotation) are investigated separately.",
+        "source": "icra/2107.05998/text.tex",
+        "arxiv_id": "icra/2107.05998",
+        "type": "Box Plot"
+    },
+    {
+        "figure_path": "icra_figures/2107.05998/2DPosition_error.png",
+        "caption": "Trajectory following results. The solid lines represent the trajectories. The dotted lines are the computed and real position error.",
+        "source": "icra/2107.05998/text.tex",
+        "arxiv_id": "icra/2107.05998",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2104.03657/translational_error_average_boxplot_per_segment.png",
+        "caption": "Relative trajectory errors for different segment lengths. Mean values are indicated by black bars.",
+        "source": "icra/2104.03657/evaluation.tex",
+        "arxiv_id": "icra/2104.03657",
+        "type": "Box Plot"
+    },
+    {
+        "figure_path": "icra_figures/2103.15215/rvio_err.png",
+        "caption": "Range-VIO position error",
+        "source": "icra/2103.15215/root.tex",
+        "arxiv_id": "icra/2103.15215",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2103.13282/figure5-trim.png",
+        "caption": "Summary of simulation results of the three methods.",
+        "source": "icra/2103.13282/arxivV1.tex",
+        "arxiv_id": "icra/2103.13282",
+        "type": "Box Plot"
+    },
+    {
+        "figure_path": "icra_figures/2103.13282/ClusterNEW.jpg",
+        "caption": "Dataset statistics A: Histogram of number of key points per annotated image, and range of cheetah sizes. B: Diversity of cheetah poses in annotated data seen by t-SNE clustering of the ground truth data, with example centroid posture from each kmeans cluster (cheetahs normalized for size and clustered by kmeans).",
+        "source": "icra/2103.13282/arxivV1.tex",
+        "arxiv_id": "icra/2103.13282",
+        "type": "Histogram"
+    },
+    {
+        "figure_path": "icra_figures/2103.05225/ep_reward.png",
+        "caption": "Learning curve of DQN on one of the environment",
+        "source": "icra/2103.05225/Supplementary_first_submission.tex",
+        "arxiv_id": "icra/2103.05225",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2102.05414/manipComparisonVRYuMi.png",
+        "caption": "Qualitative manipulability comparison for scenarios B and C of the teleoperation trajectory on the 2 YuMi robots",
+        "source": "icra/2102.05414/main.tex",
+        "arxiv_id": "icra/2102.05414",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2102.05414/manipComparisonVR.png",
+        "caption": "Qualitative manipulability comparison for scenarios B and C of the teleoperation trajectory on the 3 UR5 robots",
+        "source": "icra/2102.05414/main.tex",
+        "arxiv_id": "icra/2102.05414",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2102.05414/manipComparisonSquare.png",
+        "caption": "Qualitative manipulability comparison for scenarios B and C of the square trajectory on the 3 UR5 robot arms",
+        "source": "icra/2102.05414/main.tex",
+        "arxiv_id": "icra/2102.05414",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2102.05414/manipVSerr.png",
+        "caption": "Scenario A: Comparison of manipulability and position error for the circle trajectory on the 3 UR5 robot arms.",
+        "source": "icra/2102.05414/main.tex",
+        "arxiv_id": "icra/2102.05414",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2011.03790/eval_curves1.png",
+        "caption": "Evaluation of the generated sparse keypoint-based model. We measure the average errors in estimated keypoint position with respect to the total no. of keypoints in (a) and total no. of scenes in (b).",
+        "source": "icra/2011.03790/root.tex",
+        "arxiv_id": "icra/2011.03790",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2011.00756/exp-abl-1a-evaluation.png",
+        "caption": "Comparison of design choices. The plots show learning curves of the optimized observation spaces. We evaluate four different hyperparameters, (a) evaluation metric, (b) training time, (c) grouping scheme, and (d) dropout layer.",
+        "source": "icra/2011.00756/5_Experiments.tex",
+        "arxiv_id": "icra/2011.00756",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2011.00756/exp-result.png",
+        "caption": "Learning curves comparing optimized observation set (Search) to initial observation set (RS) and OpenAI benchmarks observation (OAI).",
+        "source": "icra/2011.00756/5_Experiments.tex",
+        "arxiv_id": "icra/2011.00756",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2011.00756/benchmark-2-1-2-dash.png",
+        "caption": "Learning curves on Hopper-v2. (a) Three observation spaces (RS, OAI, and Ours) with and without a short history. (b) Ours set with different additional information, which drops significantly when we add $x$ to Ours.",
+        "source": "icra/2011.00756/3_Benchmark_cp.tex",
+        "arxiv_id": "icra/2011.00756",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2011.00756/benchmark-1-cp.png",
+        "caption": "Learning curves with different observation set. Benchmark environments: Hopper, Walker2D, HalfCheetah, InvertedDoublePendulum.",
+        "source": "icra/2011.00756/3_Benchmark_cp.tex",
+        "arxiv_id": "icra/2011.00756",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2009.08876/ablation.png",
+        "caption": "Ablation studies: the test results of individual gating network after 2.1 step of training when (a) The Main Gating Network is trained end-to-end together with the experts. (b) The gating mechanism is trained without the sparsity loss.",
+        "source": "icra/2009.08876/IEEEexample.tex",
+        "arxiv_id": "icra/2009.08876",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2002.09425/MC_sim_initial_conditions.png",
+        "caption": "Scatter plot of the initial conditions of the Monte-Carlo simulation with colors showing the maximum height drop. The crashed flights are shown in red cross markers. a.) The benchmark method. b.) The proposed method but using P1 allocation. c.) The proposed method.",
+        "source": "icra/2002.09425/main.tex",
+        "arxiv_id": "icra/2002.09425",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "icra_figures/2002.09425/MC_sim_h_time2.png",
+        "caption": "Altitude time series of a set of Monte-Carlo simulation including 200 flights initialized from random attitude and angular velocities with different flight control methods. a.) The benchmark method. b.) The proposed method but using P1 allocation. c.) The proposed method.",
+        "source": "icra/2002.09425/main.tex",
+        "arxiv_id": "icra/2002.09425",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/2002.03197/all_train_loss.png",
+        "caption": "Training (a) and validation (b) losses of networks in RNN pretrain (epochs 1-50) and in DeltaRNN retrain (c,d) (epochs 51-60) with $M=32,64,128,256$ and $T=100$ time steps",
+        "source": "icra/2002.03197/root.tex",
+        "arxiv_id": "icra/2002.03197",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/1810.10801/Learning_allCMD_fig.jpg",
+        "caption": "Time plots of activity on the ROLLS chip during testing of the learned feedforward controller for all five commands.",
+        "source": "icra/1810.10801/root.tex",
+        "arxiv_id": "icra/1810.10801",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "icra_figures/1810.10801/chip_calibration_fig.png",
+        "caption": "Firing rate of spiking neurons on the ROLLS chip when each neuron is stimulated with 200Hz, ordered.",
+        "source": "icra/1810.10801/root.tex",
+        "arxiv_id": "icra/1810.10801",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.08690/sintetic_data_experiments_quadratic.jpg",
+        "caption": "\\it Experimental results for the curve (left) and circle (right) fitting. We compare RANSAC, BaySAC, and BANSAC based on the number of iterations and RMS error for different inlier rates.",
+        "source": "iccv_1/2309.08690/supp_mat.tex",
+        "arxiv_id": "iccv_1/2309.08690",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.08690/fundamental_rotation_iters_fixed_3.jpg",
+        "caption": "\\it Results for a fixed number of iterations, \\ie, without stopping criterion. We vary the number of iterations between 1000 and 10000.",
+        "source": "iccv_1/2309.08690/results.tex",
+        "arxiv_id": "iccv_1/2309.08690",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.07499/supp_fraction.png",
+        "caption": "Ablation on amount of distillation data v/s accuracy. The x-axis shows the fraction of augmented data used in distillation and the y-axis shows the accuracy achieved for each fraction by the APT baseline and our method on the ImageNet-C dataset. Here, ResNet-101 is used as the student network, updated using a ResNet-34 teacher, both being single modal.",
+        "source": "iccv_1/2309.07499/latest_arxiv.tex",
+        "arxiv_id": "iccv_1/2309.07499",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.07499/teaser_latest.png",
+        "caption": "ImageNet-C accuracy v/s training time comparison. Our method is on the pareto-front (achieves better robust accuracy in much lesser time) compared to the state-of-the-art methods Augmix based Complete fine-tuning and WISE-complete fine-tuning. The data points labelled with suffix \"C\" correspond to CLIP models.",
+        "source": "iccv_1/2309.07499/latest_arxiv.tex",
+        "arxiv_id": "iccv_1/2309.07499",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.05148/cfd_skin_color.png",
+        "caption": "Skin color representation",
+        "source": "iccv_1/2309.05148/supp.tex",
+        "arxiv_id": "iccv_1/2309.05148",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.02120/dataset_v2.png",
+        "caption": "Distribution of the 20 classes in the easy-EPIC Aff dataset, showing a significant class imbalance.",
+        "source": "iccv_1/2309.02120/egpaper_final.tex",
+        "arxiv_id": "iccv_1/2309.02120",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2309.00796/user-study.png",
+        "caption": "User perceptual study. The motion generated by our method is the one that best matches the textual description from the user's perspective.",
+        "source": "iccv_1/2309.00796/main.tex",
+        "arxiv_id": "iccv_1/2309.00796",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.10447/freq_and_instance_num.png",
+        "caption": "Instance frequency distribution (a) and distribution of the number of instances in a scene (b).",
+        "source": "iccv_1/2308.10447/dataset.tex",
+        "arxiv_id": "iccv_1/2308.10447",
+        "type": "Others"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.09534/avg_size_dis.png",
+        "caption": "Size distribution of instances in (a) SODA-D and (b) SODA-A, where the absolute size corresponds to the square root of the object area.",
+        "source": "iccv_1/2308.09534/0817.tex",
+        "arxiv_id": "iccv_1/2308.09534",
+        "type": "Histogram"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.08428/histogram_similarity.jpg",
+        "caption": "We conduct a statistical analysis of raw text and synthetic caption on YFCC15M. (a) is the image-text/caption similarity distribution; (b) is the token number distribution of the raw texts and synthetic captions.",
+        "source": "iccv_1/2308.08428/iccv23_ALIP.tex",
+        "arxiv_id": "iccv_1/2308.08428",
+        "type": "Histogram"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.07009/Fig.17.smooth_camouflage_performance.png",
+        "caption": "Performance graph for various smooth loss $\\beta$ and camouflage loss $\\gamma$.",
+        "source": "iccv_1/2308.07009/main.tex",
+        "arxiv_id": "iccv_1/2308.07009",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.07009/Fig.7.Different_Class_Comparison-Active.png",
+        "caption": "Transferability to different class (Truck and Bus).",
+        "source": "iccv_1/2308.07009/main.tex",
+        "arxiv_id": "iccv_1/2308.07009",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.07009/Fig.5.Attack_Comparison_Graph-Active.png",
+        "caption": "Attack comparison on different camera poses. Values are AP@0.5 of the car averaged from all models.",
+        "source": "iccv_1/2308.07009/main.tex",
+        "arxiv_id": "iccv_1/2308.07009",
+        "type": null
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.04829/cocoline.png",
+        "caption": "On COCO, MixReorg's ablation study on the number of progressive mixings and the number of images for the contextual mixing operation. (a) Yellow line: Ablation study on the number $P$ of the progressive mixing modules. We replace one progressive mixing module with one transformer layer to maintain the model size. (b) Red line: Ablation study on the number $M$ of images for each contextual mixing operation.",
+        "source": "iccv_1/2308.04829/paper.tex",
+        "arxiv_id": "iccv_1/2308.04829",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2308.01236/perplexity_val.png",
+        "caption": "Sentence perplexity distributions on the validation set. Only the perplexities ranging from 0 to 105 are shown for the ease of reading.",
+        "source": "iccv_1/2308.01236/egpaper_final.tex",
+        "arxiv_id": "iccv_1/2308.01236",
+        "type": "Histogram"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.16634/different_backbones.png",
+        "caption": "Quality of pseudo labels using different backbones for CLIP's image encoder",
+        "source": "iccv_1/2307.16634/main_final.tex",
+        "arxiv_id": "iccv_1/2307.16634",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.15539/representations.png",
+        "caption": "Representations under the effect of adversarial backdoor (AB) and non-adversarial backdoor (NAB), which are injected by attackers and defenders respectively. ``Stamp'' is the trigger pattern for NAB. (a) Clean samples are not influenced by backdoor. (b) AB changes model behavior on poisoned samples. (c) NAB is not triggered on clean samples. (d) NAB suppresses the effectiveness of AB on poisoned samples.",
+        "source": "iccv_1/2307.15539/main.tex",
+        "arxiv_id": "iccv_1/2307.15539",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.15539/process.png",
+        "caption": "Illustration of training process using NAB under BadNets attack. LGA and NC are adopted for detection and relabeling, respectively.",
+        "source": "iccv_1/2307.15539/appendix.tex",
+        "arxiv_id": "iccv_1/2307.15539",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.15539/detection_bias.png",
+        "caption": "Illustration of detection bias. The experiment is conducted under Blend attack on CIFAR-10, using an SSL pre-trained ResNet-18 and LN detected samples.",
+        "source": "iccv_1/2307.15539/appendix.tex",
+        "arxiv_id": "iccv_1/2307.15539",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.13539/Ablation_Eta.png",
+        "caption": "Learning Rate ($\\eta$)",
+        "source": "iccv_1/2307.13539/Appendix.tex",
+        "arxiv_id": "iccv_1/2307.13539",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.12101/IoU_vis_1.jpg",
+        "caption": "Bag quality (IoU of proposals with GT) of construction in SSD-Det. B.S. (blue) means neighborhood sampler. SPSD I (orange) denotes single SPSD adopted. SPSD II (yellow) is two SPSD and interactive structure adopted. SPSD II significantly improves the quality.",
+        "source": "iccv_1/2307.12101/paper_supple.tex",
+        "arxiv_id": "iccv_1/2307.12101",
+        "type": "Others"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.11077/retinanet_loss.png",
+        "caption": "Fine-tuning losses of RetinaNet on COCO train 2017.",
+        "source": "iccv_1/2307.11077/egpaper_final.tex",
+        "arxiv_id": "iccv_1/2307.11077",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.11077/tsne_perplexity-15.0_person-dog-apple.png",
+        "caption": "t-SNE visualization of ground truth annotations. AlignDet pre-training results in better class separation.",
+        "source": "iccv_1/2307.11077/egpaper_final.tex",
+        "arxiv_id": "iccv_1/2307.11077",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.09004/n626.jpg",
+        "caption": "Performances of SORD, POE, and Ord2Seq (PVT) for each category on the DR dataset, showing the proportions of samples that truly belong to one level and are predicted to the correct, adjacent, and other levels. Although overall performance is still limited on unbalanced categories, Ord2Seq significantly improves the Accuracy performance in distinguishing adjacent categories.",
+        "source": "iccv_1/2307.09004/egbib.tex",
+        "arxiv_id": "iccv_1/2307.09004",
+        "type": "Others"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.08504/vqa_throughput_pa_3.png",
+        "caption": "VQA performance and throughput of \\modelname on different selection ratio of Text-Guided Patch Abstraction.",
+        "source": "iccv_1/2307.08504/main.tex",
+        "arxiv_id": "iccv_1/2307.08504",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.08300/step.png",
+        "caption": "FLOPs/Accuracy tradeoffs of ShiftNAS with different steps",
+        "source": "iccv_1/2307.08300/iccv.tex",
+        "arxiv_id": "iccv_1/2307.08300",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.08300/ranking.png",
+        "caption": "The ranking correlation of architecture generator.",
+        "source": "iccv_1/2307.08300/iccv.tex",
+        "arxiv_id": "iccv_1/2307.08300",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.00398/activeL2.png",
+        "caption": "Results for active learning, with different vision encoders and varying training budgets. For a given encoder, uncertainty-based sampling outperforms random sampling.",
+        "source": "iccv_1/2307.00398/ProbVLM_arxiv.tex",
+        "arxiv_id": "iccv_1/2307.00398",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2307.00398/Abl1.png",
+        "caption": "Uncertainty increases with increased masking of the input images (Left) and texts (Right). Results with three vision encoders and one language encoder from CLIP.",
+        "source": "iccv_1/2307.00398/ProbVLM_arxiv.tex",
+        "arxiv_id": "iccv_1/2307.00398",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2306.15925/Weight_Norm.png",
+        "caption": "Change in weight norm of the linear classifier based on the representations trained by SBCL on CIFAR-100-LT with imbalance ratio 100 during training.",
+        "source": "iccv_1/2306.15925/04-exp.tex",
+        "arxiv_id": "iccv_1/2306.15925",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2304.10700/geogpt-hop.png",
+        "caption": "GeoGPT",
+        "source": "iccv_1/2304.10700/appendix.tex",
+        "arxiv_id": "iccv_1/2304.10700",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "iccv_figures_1/2304.10700/geogpt-orbit.png",
+        "caption": "GeoGPT",
+        "source": "iccv_1/2304.10700/appendix.tex",
+        "arxiv_id": "iccv_1/2304.10700",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "iccv_figures_1/2304.10700/geogpt-long.png",
+        "caption": "GeoGPT",
+        "source": "iccv_1/2304.10700/appendix.tex",
+        "arxiv_id": "iccv_1/2304.10700",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.14027/cifar_fgsm_8_16_32_resnet_32_v4.png",
+        "caption": "Adversarial attack results with running statistics for Euclidean models. The running statistics make the Euclidean models perform slightly better, but significantly more susceptible to adversarial attacks.",
+        "source": "iccv_1/2303.14027/appendix.tex",
+        "arxiv_id": "iccv_1/2303.14027",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.13593/Hist_error_100_01234_4_cam.png",
+        "caption": "Triangulation of $p=5$ point correspondences incident to a line for $m=4$ views with complete visibility. The triangulation of this setting was done 100 times, and each histogram shows the frequency both for the relative error and the running time of the depicted triangulation methods.",
+        "source": "iccv_1/2303.13593/main.tex",
+        "arxiv_id": "iccv_1/2303.13593",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.13593/Hist_error_1000_01234_3_cam_newnew.png",
+        "caption": "Triangulation of $p=5$ point correspondences incident to a line for $m=3$ views with complete visibility. The triangulation of this setting was done 1000 times, and each histogram shows the frequency both for the relative error and the running time of the depicted triangulation methods.",
+        "source": "iccv_1/2303.13593/main.tex",
+        "arxiv_id": "iccv_1/2303.13593",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.13593/Hist_error_1000_std_nonstd_2_cam_new.png",
+        "caption": "Triangulation of $p=5$ point correspondences incident to a line for $m=2$ views with complete visibility. The triangulation of this setting was done 1000 times, and each histogram shows the frequency both for the average relative error and the running time of the triangulation.",
+        "source": "iccv_1/2303.13593/main.tex",
+        "arxiv_id": "iccv_1/2303.13593",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.13396/text_sim.png",
+        "caption": "empirical experiment on text similarity using CLIP's text encoder and Sentence-Bert",
+        "source": "iccv_1/2303.13396/old_eval.tex",
+        "arxiv_id": "iccv_1/2303.13396",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.08308/spaceranking1.png",
+        "caption": "Q-T score effectiveness (Kendall's $\\tau$) on ranking search space quality. We achieve a high space ranking correlation.",
+        "source": "iccv_1/2303.08308/eval.tex",
+        "arxiv_id": "iccv_1/2303.08308",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.08308/searchcost.png",
+        "caption": "Search cost measured on 8 Nvidia V100 GPUs.",
+        "source": "iccv_1/2303.08308/eval.tex",
+        "arxiv_id": "iccv_1/2303.08308",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2303.08308/searchspace_comparison2.png",
+        "caption": "Best searched INT8 models with comparison to state-of-the-art NAS search spaces. Our searched spaces are proven to be the most quantization-friendly for the target device.",
+        "source": "iccv_1/2303.08308/eval.tex",
+        "arxiv_id": "iccv_1/2303.08308",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2302.12986/dataset-scale-invariant.png",
+        "caption": "The scale variation of the same person on PRW and CUHK-SYSU datasets.",
+        "source": "iccv_1/2302.12986/PaperForReview.tex",
+        "arxiv_id": "iccv_1/2302.12986",
+        "type": null
+    },
+    {
+        "figure_path": "iccv_figures_1/2301.10460/iterations.png",
+        "caption": "A plot of the number of human-verified shapes (max = 400) at different nodes (only those which existed in more than 100 shapes) of the chair category. The plot shows that with hierarchical active learning, many more shapes pass the verification, hence saving on the costly label modification, especially at higher hierarchy levels (i.e., earlier in the labeling iterations).",
+        "source": "iccv_1/2301.10460/5_exp.tex",
+        "arxiv_id": "iccv_1/2301.10460",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2301.01218/OD_Boundary_20220514.png",
+        "caption": "The distributions of output differences with different black-box attacks.",
+        "source": "iccv_1/2301.01218/main.tex",
+        "arxiv_id": "iccv_1/2301.01218",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2212.14306/aucrocvst.png",
+        "caption": "$T_0$ vs AUC-ROC on CUB. Incorporating more reverse diffusion steps into the attention computation improves the AUC-ROC against the groundtruth only up to roughly $T_0 = 40$.",
+        "source": "iccv_1/2212.14306/main.tex",
+        "arxiv_id": "iccv_1/2212.14306",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "iccv_figures_1/2211.14646/mag_plot.png",
+        "caption": "Mean magnitude of output feature vectors vs image size",
+        "source": "iccv_1/2211.14646/main.tex",
+        "arxiv_id": "iccv_1/2211.14646",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2211.14646/cos_sim.png",
+        "caption": "Average difference in cosine similarity vs image size. Since model features of ViTs can be negative unlike ResNet-50, cosine similarity can vary from -1 to 1",
+        "source": "iccv_1/2211.14646/main.tex",
+        "arxiv_id": "iccv_1/2211.14646",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2211.14646/shape_bias_EfficientNet_barplot_with_gap.png",
+        "caption": "EfficientNet",
+        "source": "iccv_1/2211.14646/main.tex",
+        "arxiv_id": "iccv_1/2211.14646",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2211.14646/accuracy_16x16_patches_partial_conv.png",
+        "caption": "Accuracy and class entropy vs fraction of $16 \\times 16$ patches of the image masked out in random order using various masking methods on ResNet-50",
+        "source": "iccv_1/2211.14646/main.tex",
+        "arxiv_id": "iccv_1/2211.14646",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2211.14646/all_metrics_16x16_patches.png",
+        "caption": "Metrics plotted as a function of fraction of $16 \\times 16$ patches masked out in a random order using a given masking method and model. ResNet50 (Aug) refers to ResNet50 pretrained with grey missingness augmentations",
+        "source": "iccv_1/2211.14646/main.tex",
+        "arxiv_id": "iccv_1/2211.14646",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2211.07157/corresponding_kernel.png",
+        "caption": "The corresponding oversized convolution kernel of the last uniform block of the third stage. We randomly selected 32 channels as examples.",
+        "source": "iccv_1/2211.07157/arxiv.tex",
+        "arxiv_id": "iccv_1/2211.07157",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "iccv_figures_1/2205.14900/Of_converge.png",
+        "caption": "OfficeHome",
+        "source": "iccv_1/2205.14900/main.tex",
+        "arxiv_id": "iccv_1/2205.14900",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2210.01208/blockcompare.jpg",
+        "caption": "Comparison of the accuracy of masking different numbers of blocks on the CIFAR-100 dataset.",
+        "source": "iccv_1/2210.01208/egpaper_for_review.tex",
+        "arxiv_id": "iccv_1/2210.01208",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2210.01208/resneterror.jpg",
+        "caption": "The effectiveness of the RSM method in (a) SA and (b) MLP modules of the MST model, as well as in Spiking (c) ResNet18 and (d) VGG16 models, with varying masking ratios. The inset photographs show the standard deviation of accuracy in 10 runs.",
+        "source": "iccv_1/2210.01208/egpaper_for_review.tex",
+        "arxiv_id": "iccv_1/2210.01208",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2210.01208/heatmap.jpg",
+        "caption": "Illustration of distributions of (a) post-activation distribution in ANN, and (b-c) cumulative membrane potential distributions of SNN model with BN and LN, respectively. The heatmap shows a similar distribution between ANN and SNN(BN) model, but the distribution between ANN and SNN(LN) is quite different, which leads to performance degradation.",
+        "source": "iccv_1/2210.01208/egpaper_for_review.tex",
+        "arxiv_id": "iccv_1/2210.01208",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "iccv_figures_1/2207.11209/sen_map_c.png",
+        "caption": "Parameter Sensitivity Analysis.",
+        "source": "iccv_1/2207.11209/PaperForReview.tex",
+        "arxiv_id": "iccv_1/2207.11209",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "iccv_figures_1/2207.11209/density_cal.png",
+        "caption": "Point Density.",
+        "source": "iccv_1/2207.11209/PaperForReview.tex",
+        "arxiv_id": "iccv_1/2207.11209",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2305.00562/cifar100_tcfg_fid.png",
+        "caption": "FID",
+        "source": "cvpr_3/2305.00562/PaperSuppMaterials.tex",
+        "arxiv_id": "cvpr_3/2305.00562",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.11598/convergence.png",
+        "caption": "The loss curve (mini-ImageNet, tiered-ImageNet).",
+        "source": "cvpr_3/2304.11598/arxiv_version.tex",
+        "arxiv_id": "cvpr_3/2304.11598",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.08028/marin-two.png",
+        "caption": "The prediction distribution of the SF-MD model assisted by SP and MAD on CASIA-SURF dataset. X-axis represents the normalized logit output and x=0.5 is the classification boundary. orange and blue dots denotes two different classes.",
+        "source": "cvpr_3/2304.08028/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2304.08028",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.06537/CLTS0.998.png",
+        "caption": "The reliability diagram of our method with (a) $\\alpha=0.998$, (b) $\\alpha=0.997$, and (c) $\\alpha=0.996$.",
+        "source": "cvpr_3/2304.06537/3.experiment.tex",
+        "arxiv_id": "cvpr_3/2304.06537",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.06537/validation.png",
+        "caption": "The reliability diagrams of (a) the validation set before calibration, (b) the test set before calibration, and (c) the test set after calibration with temperature scaling.",
+        "source": "cvpr_3/2304.06537/0.introduction.tex",
+        "arxiv_id": "cvpr_3/2304.06537",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.06287/0616_eval.png",
+        "caption": "Left(a): Performance along the view coverage. Right(b): Trajectory with train, interpolation, and extrapolation viewpoints.",
+        "source": "cvpr_3/2304.06287/5experiments.tex",
+        "arxiv_id": "cvpr_3/2304.06287",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.04420/EMRNet_features_all.png",
+        "caption": "The feature distributions of EMRNet, FGRL-AUF and our proposed FRL-DGT on the evaluation datasets.",
+        "source": "cvpr_3/2304.04420/FRL-DGT.tex",
+        "arxiv_id": "cvpr_3/2304.04420",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.00733/sgcls_tab4_per_class.png",
+        "caption": "SGCLS",
+        "source": "cvpr_3/2304.00733/sgdet_sgcls_ablations_per_class_wc.tex",
+        "arxiv_id": "cvpr_3/2304.00733",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.00733/al_vs_epoch_predcls.jpg",
+        "caption": "",
+        "source": "cvpr_3/2304.00733/predictive_uncertainty_all.tex",
+        "arxiv_id": "cvpr_3/2304.00733",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.00733/comparative_per_class_recall.png",
+        "caption": "\\small Comparative per class performance for PREDCLS task. Results are in terms of R@10 under ``with constraint''.",
+        "source": "cvpr_3/2304.00733/predcls_per_class_line.tex",
+        "arxiv_id": "cvpr_3/2304.00733",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2304.00733/sgdet_per_class_wc.jpg",
+        "caption": "SGDET",
+        "source": "cvpr_3/2304.00733/mR_per_class.tex",
+        "arxiv_id": "cvpr_3/2304.00733",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.15786/data_efficiency.jpg",
+        "caption": "Data Efficiency Comparison",
+        "source": "cvpr_3/2303.15786/main.tex",
+        "arxiv_id": "cvpr_3/2303.15786",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.14773/query_efficiency_0224.png",
+        "caption": "Ablation study for backbone architecture. Classification accuracy on EuroSAT across pre-trained target backbone architectures and BlackVIP's Coordinators (SSL encoder backbone).",
+        "source": "cvpr_3/2303.14773/main.tex",
+        "arxiv_id": "cvpr_3/2303.14773",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.14773/grad_100dim.png",
+        "caption": "(Left) loss curve and (right) noise sensitivity analysis of 100-Dimensional Rosenbrock optimization.",
+        "source": "cvpr_3/2303.14773/main.tex",
+        "arxiv_id": "cvpr_3/2303.14773",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.14080/Training_Feature_Subsets.png",
+        "caption": "Contrastive loss during multimodal pretraining. Training with only morphometric features converged to a similar loss of the baseline which included all 120 features. Training with no morphometric features had markedly less similarity between the projected embeddings of the same subject, showing the importance of the morphometric features for the multimodal training process.",
+        "source": "cvpr_3/2303.14080/sm.tex",
+        "arxiv_id": "cvpr_3/2303.14080",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.14080/Top20DVM_AV_Physical.png",
+        "caption": "Impact of features for calculating DVM embeddings determined using integrated gradient feature attribution method. The morphometric features are colored orange and comprise the four most impactful features.",
+        "source": "cvpr_3/2303.14080/ms.tex",
+        "arxiv_id": "cvpr_3/2303.14080",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.14080/IG_Emb_20.png",
+        "caption": "Top 20 most impactful features for calculating embeddings determined using integrated gradient feature attribution method. The morphometric features are colored orange and comprise 15 of the 20 most impactful features.",
+        "source": "cvpr_3/2303.14080/ms.tex",
+        "arxiv_id": "cvpr_3/2303.14080",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.12756/num_sop.jpg",
+        "caption": "Statistics on SOP dataset.",
+        "source": "cvpr_3/2303.12756/camera-ready.tex",
+        "arxiv_id": "cvpr_3/2303.12756",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.12756/hyperparameters.png",
+        "caption": "Recall@1 w.r.t $w$ and $\\tau$ on CIFAR100 dataset",
+        "source": "cvpr_3/2303.12756/camera-ready.tex",
+        "arxiv_id": "cvpr_3/2303.12756",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.12071/orthogonality.png",
+        "caption": "Illustration of the orthogonality of learnable proposal queries before (right) and after (left) training.",
+        "source": "cvpr_3/2303.12071/arxiv.tex",
+        "arxiv_id": "cvpr_3/2303.12071",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.12071/teaser.png",
+        "caption": "Overview of accuracy-and\u2013latency trade-off for the task of motion forecasting on Argoverse-1. ProphNet outperforms the state-of-the-art methods in prediction accuracy and considerably speeds up the agent-centric inference latency, leading to the best balance between accuracy and latency.",
+        "source": "cvpr_3/2303.12071/arxiv.tex",
+        "arxiv_id": "cvpr_3/2303.12071",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.12071/rand_orth.png",
+        "caption": "Illustration of the predicted trajectories by ProphNet-S with randomly (left) and orthogonally (right) initialized queries.",
+        "source": "cvpr_3/2303.12071/appendix.tex",
+        "arxiv_id": "cvpr_3/2303.12071",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.11674/PACS_low_pass_test.jpg",
+        "caption": "Low-pass Filter on PACS.",
+        "source": "cvpr_3/2303.11674/ms.tex",
+        "arxiv_id": "cvpr_3/2303.11674",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.10406/freq.png",
+        "caption": "Power spectral density of different frequencies on 1000 generated shapes along with visual comparison. Our MFM layers successfully suppress high-frequency components.",
+        "source": "cvpr_3/2303.10406/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2303.10406",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.10406/moti3.png",
+        "caption": "Our shape generation model is a unified and efficient prior model to produce high-fidelity, diverse results on multiple tasks, while most previous approaches are task-specific.",
+        "source": "cvpr_3/2303.10406/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2303.10406",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.04341/loss.png",
+        "caption": "Training curves of models w/ and w/o codebook. The models w/ codebooks converge faster than those w/o codebooks.",
+        "source": "cvpr_3/2303.04341/camera_ready.tex",
+        "arxiv_id": "cvpr_3/2303.04341",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.01311/ablation_studies.png",
+        "caption": "Curves of CLIP scores increasing within 300s under three different module settings.",
+        "source": "cvpr_3/2303.01311/Zero-Shot Text-to-Parameter Translation for Game Character Auto-Creation/main.tex",
+        "arxiv_id": "cvpr_3/2303.01311",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.01311/ablation_studies.png",
+        "caption": "Curves of CLIP scores increasing within 300s under three different module settings.",
+        "source": "cvpr_3/2303.01311/main.tex",
+        "arxiv_id": "cvpr_3/2303.01311",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.00521/bid_heatmap_new.png",
+        "caption": "Results in BID",
+        "source": "cvpr_3/2303.00521/paper.tex",
+        "arxiv_id": "cvpr_3/2303.00521",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.00340/dist_at.png",
+        "caption": "AT",
+        "source": "cvpr_3/2303.00340/main.tex",
+        "arxiv_id": "cvpr_3/2303.00340",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.00340/vis_hess_mnist_full.png",
+        "caption": "The full heatmap of attribution gradients of CIFAR-100 in size $3072\\times 3072$.",
+        "source": "cvpr_3/2303.00340/main.tex",
+        "arxiv_id": "cvpr_3/2303.00340",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.00340/vis_hess_mnist_full.png",
+        "caption": "The full heatmap of attribution gradients of MNIST in size $784\\times 784$.",
+        "source": "cvpr_3/2303.00340/main.tex",
+        "arxiv_id": "cvpr_3/2303.00340",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.00340/hess_mnist_top100.png",
+        "caption": "",
+        "source": "cvpr_3/2303.00340/main.tex",
+        "arxiv_id": "cvpr_3/2303.00340",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2303.00340/eta_at_cifar_14.png",
+        "caption": "AT",
+        "source": "cvpr_3/2303.00340/main.tex",
+        "arxiv_id": "cvpr_3/2303.00340",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2302.10174/tsne_pretrain_ablation_progan_small.png",
+        "caption": "t-SNE visualization of real (red) and fake (blue) images using the feature space of different image encoders. CLIP:ViT's feature space best separates the real features from fake.",
+        "source": "cvpr_3/2302.10174/results.tex",
+        "arxiv_id": "cvpr_3/2302.10174",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2302.10174/baseline_tsne_legend_side.png",
+        "caption": "t-SNE visualization of real and fake images associated with two types of generative models. The feature space used is of a classifier trained to distinguish Fake (GAN) from Real (GAN).",
+        "source": "cvpr_3/2302.10174/approach.tex",
+        "arxiv_id": "cvpr_3/2302.10174",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2302.09997/example_969_cases_losses.png",
+        "caption": "Data set B with 969 cases. Histograms of mean and maximum losses due to using an approximate/algebraic estimation method, and due to using equal weighting instead of scale dependent weighting",
+        "source": "cvpr_3/2302.09997/merged.tex",
+        "arxiv_id": "cvpr_3/2302.09997",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2302.09997/histogram_of_detector_angular_transformation12.png",
+        "caption": "The histogram of the detector angular transformation $\\alpha_i$ for 6.1M of keypoint pairs. The right histogram shows logarithmic scale of the occurrence to visualize the number of samples across the complete interval $[-180, 180)$ degrees.",
+        "source": "cvpr_3/2302.09997/merged.tex",
+        "arxiv_id": "cvpr_3/2302.09997",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2302.09997/histogram_of_scale_transformation_errors12.png",
+        "caption": "The histogram of the scale transformation ratio $\\Delta r_i$ and the weighted log-ratio $\\rho_i$ on 5.6M keypoint pairs.",
+        "source": "cvpr_3/2302.09997/merged.tex",
+        "arxiv_id": "cvpr_3/2302.09997",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2301.07093/gamma_change.png",
+        "caption": "learnable $\\gamma$ in the gated self attention layer in the middle of Unet changes during the training progress.",
+        "source": "cvpr_3/2301.07093/supp.tex",
+        "arxiv_id": "cvpr_3/2301.07093",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2301.06083/apiexp.png",
+        "caption": "The left side of the image depicts the five expression states, while the right side of the image depicts the influence of varied AU on the attack performance of Face++ and Tencent.",
+        "source": "cvpr_3/2301.06083/main.tex",
+        "arxiv_id": "cvpr_3/2301.06083",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2301.06083/intro3.png",
+        "caption": "The black-box attack success rate on the Mobileface of attacking target * 1, 2 and 3 during the testing. The three methods are exclusively trained on target *.",
+        "source": "cvpr_3/2301.06083/main.tex",
+        "arxiv_id": "cvpr_3/2301.06083",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.12053/Boundary_Example.png",
+        "caption": "SegFormer-B5 ECE comparison in ADE20K between boundary and non-boundary pixels among uncalibration, temperature scaling, and selective scaling. Crosses and dots show means and outliers. The numbers are the means.",
+        "source": "cvpr_3/2212.12053/[Dongdong] Segmentation Calibration (2)/main.tex",
+        "arxiv_id": "cvpr_3/2212.12053",
+        "type": "Box Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.12053/Boundary_Example.png",
+        "caption": "SegFormer-B5 ECE comparison in ADE20K between boundary and non-boundary pixels among uncalibration, temperature scaling, and selective scaling. Crosses and dots show means and outliers. The numbers are the means.",
+        "source": "cvpr_3/2212.12053/main.tex",
+        "arxiv_id": "cvpr_3/2212.12053",
+        "type": null
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.09069/fig_level.png",
+        "caption": "The rate distortion curves of different signal representation schemes (spatial, DWT, and DCT). Sparsity on the x axis refers to the ratio of zeros in grid parameters. The grid sparsity was controlled by $\\lambda_m$. The numbers inside the parenthesis indicate the levels of the wavelet transform.",
+        "source": "cvpr_3/2212.09069/true-arxiv.tex",
+        "arxiv_id": "cvpr_3/2212.09069",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.09069/new_synthetic.png",
+        "caption": "Rate-distortion curves on the NeRF synthetic dataset. The numbers inside parenthesis denote the axis resolution of grids.",
+        "source": "cvpr_3/2212.09069/true-arxiv.tex",
+        "arxiv_id": "cvpr_3/2212.09069",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.07242/speed.png",
+        "caption": "Inference speed in frames per second for our final model and two baseline architectures. Each point corresponds to one of the training garments. The speed was measured using NVIDIA GeForce RTX 3060 GPU",
+        "source": "cvpr_3/2212.07242/101_experiments_suppmat.tex",
+        "arxiv_id": "cvpr_3/2212.07242",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.06344/segtime.png",
+        "caption": "Our method produces segmentations in roughly linear time with respect to the \\# edges of the model.",
+        "source": "cvpr_3/2212.06344/07_supplemental.tex",
+        "arxiv_id": "cvpr_3/2212.06344",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.06200/speeds.png",
+        "caption": "Distribution of object motion normalized by the object area in VOST. Most videos are smooth but there is a significant amount of challenging sequences with fast motion.",
+        "source": "cvpr_3/2212.06200/supplementary.tex",
+        "arxiv_id": "cvpr_3/2212.06200",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.06200/sizes.png",
+        "caption": "Distribution of object sizes in VOST. Most of the objects are small due to the nature of first-person videos, but there is a significant long tail of larger objects, such as cars.",
+        "source": "cvpr_3/2212.06200/supplementary.tex",
+        "arxiv_id": "cvpr_3/2212.06200",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.06200/lens.png",
+        "caption": "Distribution of video lengths in VOST. The vast majority of the samples fall into the challenging 10-30 seconds range, and a significant number of the videos are even longer than that.",
+        "source": "cvpr_3/2212.06200/supplementary.tex",
+        "arxiv_id": "cvpr_3/2212.06200",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2212.06200/complexity.png",
+        "caption": "Distribution of complexity scores among reviewed clips. The majority of the transformations in the wild are not challenging but there is still a sufficient number of clips in the target 4-5 range.",
+        "source": "cvpr_3/2212.06200/supplementary.tex",
+        "arxiv_id": "cvpr_3/2212.06200",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2211.16056/noisy_improve_distribution-qkv.png",
+        "caption": "Output histogram in selected transformer layers before and after activation quantization. NoisyQuant significantly reduces the output quantization error over EasyQuant baselines.",
+        "source": "cvpr_3/2211.16056/4_ablation.tex",
+        "arxiv_id": "cvpr_3/2211.16056",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2211.10772/noise_influence.jpg",
+        "caption": "Analysis of the sensitivity to different line locations.",
+        "source": "cvpr_3/2211.10772/main.tex",
+        "arxiv_id": "cvpr_3/2211.10772",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2211.10772/train_efficiency.jpg",
+        "caption": "Comparison with open-source Transformer-based methods using only Total-Text training set.",
+        "source": "cvpr_3/2211.10772/main.tex",
+        "arxiv_id": "cvpr_3/2211.10772",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2211.06891/Teaser.png",
+        "caption": "\\small Comparison of PSNR-Parameters with previous HSI reconstruction methods. The PSNR (in dB) is plotted on the vertical axis, while memory cost parameters are represented on the horizontal axis. Our proposed Residual Degradation Learning Unfolding Framework with Mixing priors across Spatial and Spectral (RDLUF-Mix$S^2$) Transformers outperforms previous methods while requiring fewer parameters.",
+        "source": "cvpr_3/2211.06891/01_intro.tex",
+        "arxiv_id": "cvpr_3/2211.06891",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2210.01115/eurosat_dist.png",
+        "caption": "Eurosat; Ours ($0.516$) vs CoOp ($0.491$)",
+        "source": "cvpr_3/2210.01115/main.tex",
+        "arxiv_id": "cvpr_3/2210.01115",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2209.12152/CKA-Concat-Concat-Block.png",
+        "caption": "CKA analysis on hidden representations of networks that employ three ways to combine long skip branches. We analyze the similarity between hidden representations after each transformer block in the same network.",
+        "source": "cvpr_3/2209.12152/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2209.12152",
+        "type": "Heat Map"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2209.03102/Err_Recall.png",
+        "caption": "Mean error and recall of the virtual points computed with different numbers (K) of retrieved depths per seed.",
+        "source": "cvpr_3/2209.03102/MSMD.tex",
+        "arxiv_id": "cvpr_3/2209.03102",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2207.01463/learning_efficiency.jpg",
+        "caption": "AUROC vs epoch curve of cable category on the MVTecAD dataset.",
+        "source": "cvpr_3/2207.01463/CVPR2023_ BGAD-Camera-Ready/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2207.01463",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2207.01463/other_dataset.jpg",
+        "caption": "AUROC results on the AITEX, ELPV, BrainMRI, and HeadCT datasets.",
+        "source": "cvpr_3/2207.01463/CVPR2023_ BGAD-Camera-Ready/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2207.01463",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2207.01463/learning_efficiency.jpg",
+        "caption": "AUROC vs epoch curve of cable category on the MVTecAD dataset.",
+        "source": "cvpr_3/2207.01463/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2207.01463",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2205.04437/Pretrain.png",
+        "caption": "Quantitative comparison on PSNR(dB) of four different networks without and with the same-task pre-training on $\\times$4 SR.",
+        "source": "cvpr_3/2205.04437/ArxivVersion.tex",
+        "arxiv_id": "cvpr_3/2205.04437",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2202.06312/PR_PBE.png",
+        "caption": "The progress of clean-image identification with respect to the increase of iterations.",
+        "source": "cvpr_3/2202.06312/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2202.06312",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2110.04869/sensitivity.png",
+        "caption": "Hessian importance score vs. squared loss difference.",
+        "source": "cvpr_3/2110.04869/5_appendix.tex",
+        "arxiv_id": "cvpr_3/2110.04869",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2110.04869/tradeoff.png",
+        "caption": "Comparing the parameter reduction-accuracy tradeoff and latency reduction-accuracy tradeoff of different pruning schemes. Latency estimated on RTX 2080 GPU. Model size compression rate and latency reduction rate are computed based on that of the DeiT-Base model respectively.",
+        "source": "cvpr_3/2110.04869/5_appendix.tex",
+        "arxiv_id": "cvpr_3/2110.04869",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2110.04869/latency.png",
+        "caption": "Estimated latency from the lookup table vs. evaluated latency on V100 GPU with batch size 256. Reduction ratio computed with respect to the latency of the full model.",
+        "source": "cvpr_3/2110.04869/5_appendix.tex",
+        "arxiv_id": "cvpr_3/2110.04869",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2205.04437/Pretrain.png",
+        "caption": "Quantitative comparison on PSNR(dB) of four different networks without and with the same-task pre-training on $\\times$4 SR.",
+        "source": "cvpr_3/2205.04437/ArxivVersion.tex",
+        "arxiv_id": "cvpr_3/2205.04437",
+        "type": "Bar Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2202.06312/PR_PBE.png",
+        "caption": "The progress of clean-image identification with respect to the increase of iterations.",
+        "source": "cvpr_3/2202.06312/PaperForReview.tex",
+        "arxiv_id": "cvpr_3/2202.06312",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2110.04869/sensitivity.png",
+        "caption": "Hessian importance score vs. squared loss difference.",
+        "source": "cvpr_3/2110.04869/5_appendix.tex",
+        "arxiv_id": "cvpr_3/2110.04869",
+        "type": "Scatter Plot"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2110.04869/tradeoff.png",
+        "caption": "Comparing the parameter reduction-accuracy tradeoff and latency reduction-accuracy tradeoff of different pruning schemes. Latency estimated on RTX 2080 GPU. Model size compression rate and latency reduction rate are computed based on that of the DeiT-Base model respectively.",
+        "source": "cvpr_3/2110.04869/5_appendix.tex",
+        "arxiv_id": "cvpr_3/2110.04869",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "cvpr_figures_2/2110.04869/latency.png",
+        "caption": "Estimated latency from the lookup table vs. evaluated latency on V100 GPU with batch size 256. Reduction ratio computed with respect to the latency of the full model.",
+        "source": "cvpr_3/2110.04869/5_appendix.tex",
+        "arxiv_id": "cvpr_3/2110.04869",
+        "type": "Line Chart"
+    },
+    {
+        "figure_path": "acl_20_figures/2006.09639/simplification.jpg",
+        "caption": "An example of three edit operations on a given sentence. Note that dropping clauses or phrases is common in text simplification datasets.",
+        "source": "acl_20/2006.09639/acl2020.tex",
+        "arxiv_id": "acl_20/2006.09639"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.13962/extraction-process-diagram-v10.png",
+        "caption": "The extraction process for the measurements released in \\corpusname.",
+        "source": "acl_20/2005.13962/arxiv.tex",
+        "arxiv_id": "acl_20/2005.13962"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.13344/plot_dm.png",
+        "caption": "Number of predicted transitions relative to the length of the sentence, for the three SDP formalisms on the development set from SemEval 2015 Task 18.",
+        "source": "acl_20/2005.13344/acl2020.tex",
+        "arxiv_id": "acl_20/2005.13344"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.11055/pie_chart.png",
+        "caption": "Relative frequencies of each tag in the dataset.",
+        "source": "acl_20/2005.11055/ticketseg_03_zdata.tex",
+        "arxiv_id": "acl_20/2005.11055"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.10865/abstracts.png",
+        "caption": "Detailed view of selected abstracts that contribute to the evidence map. These are automatically annotated with all extracted information.",
+        "source": "acl_20/2005.10865/main.tex",
+        "arxiv_id": "acl_20/2005.10865"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.10716/shapleyRemoveSparse.png",
+        "caption": "Removing training data with low Shapley value improves the performance of the KNN regressor.",
+        "source": "acl_20/2005.10716/acl2020.tex",
+        "arxiv_id": "acl_20/2005.10716"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.10107/frequencies.png",
+        "caption": "Counts of published articles and textual mentions across dates in an article collection about Enron.",
+        "source": "acl_20/2005.10107/main.tex",
+        "arxiv_id": "acl_20/2005.10107"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.10070/size_effect.png",
+        "caption": "ROUGE-1 F1-scores for different numbers of supplementary articles from Common Crawl.",
+        "source": "acl_20/2005.10070/main.tex",
+        "arxiv_id": "acl_20/2005.10070"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.08178/Fig2.png",
+        "caption": "Measuring performance of CopyAttention with BERT model upon changing the beam size",
+        "source": "acl_20/2005.08178/acl2020.tex",
+        "arxiv_id": "acl_20/2005.08178"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.08178/Fig1.png",
+        "caption": "Measuring performance with varying input sentence lengths",
+        "source": "acl_20/2005.08178/acl2020.tex",
+        "arxiv_id": "acl_20/2005.08178"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.08178/imojie.png",
+        "caption": "Precision-Recall curve of OpenIE Systems.",
+        "source": "acl_20/2005.08178/acl2020.tex",
+        "arxiv_id": "acl_20/2005.08178"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.07105/varying_number_of_training_sites.png",
+        "caption": "Performance on the ClosedIE Movie vertical increases significantly as more sites are added to the training data.",
+        "source": "acl_20/2005.07105/acl2020.tex",
+        "arxiv_id": "acl_20/2005.07105"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.07105/OpenIE_InVOutDomain.png",
+        "caption": "For OpenIE, using the full SWDE set (except the test site), including in-vertical training data (i.e. Level II knowledge), allows for 5-10 point gains in precision at equivalent recall compared to using only out-of-vertical training data (Level I).",
+        "source": "acl_20/2005.07105/acl2020.tex",
+        "arxiv_id": "acl_20/2005.07105"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06606/bleu_enet.png",
+        "caption": "BLEU scores of BPE vs DPE by the lengths of sentences for En$\\rightarrow$Et.",
+        "source": "acl_20/2005.06606/sec5_expr.tex",
+        "arxiv_id": "acl_20/2005.06606"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06606/disagreement.png",
+        "caption": "Disagreement of segments between BPE and DPE over Estonian vocabulary.",
+        "source": "acl_20/2005.06606/sec5_expr.tex",
+        "arxiv_id": "acl_20/2005.06606"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06606/cond_disagreement.png",
+        "caption": "Disagreement of DPE segments between Et-En and Ro-En over English vocabulary",
+        "source": "acl_20/2005.06606/sec5_expr.tex",
+        "arxiv_id": "acl_20/2005.06606"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06606/model.png",
+        "caption": "An illustration of the mixed character-subword Transformer. The input is a list of characters, whereas the output is a sequence of subwords.",
+        "source": "acl_20/2005.06606/sec4_trans.tex",
+        "arxiv_id": "acl_20/2005.06606"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06606/seg.jpg",
+        "caption": "\\small An illustration of marginalizing subword segmentations of the word `unconscious'",
+        "source": "acl_20/2005.06606/sec3_seg_lv.tex",
+        "arxiv_id": "acl_20/2005.06606"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06117/high_freq.png",
+        "caption": "Number of annotations by frequent annotators",
+        "source": "acl_20/2005.06117/main.tex",
+        "arxiv_id": "acl_20/2005.06117"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.06114/stacked_length_comp.png",
+        "caption": "Test scores compared against the number of dialog turns given as context prior to generating samples for \\decModel(355M) and \\norefModel(355M).",
+        "source": "acl_20/2005.06114/acl2020.tex",
+        "arxiv_id": "acl_20/2005.06114"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.05763/reason-quality.png",
+        "caption": "Distribution of reason plausibility score. The positive, acceptable, and negative reasons are denoted with the tick, confusing emoji, and cross respectively.",
+        "source": "acl_20/2005.05763/WinoWhy-with-appendix.tex",
+        "arxiv_id": "acl_20/2005.05763"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.05763/reason-category.png",
+        "caption": "Distribution of different knowledge types.",
+        "source": "acl_20/2005.05763/WinoWhy-with-appendix.tex",
+        "arxiv_id": "acl_20/2005.05763"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.05763/winowhy_demo.png",
+        "caption": "One example from the WinoWhy dataset. Plausible and implausible reasons are indicated with the tick and the crosses respectively. Resources of different reasons are shown in brackets. `Human Reverse' means the human reason for the reverse question.",
+        "source": "acl_20/2005.05763/WinoWhy-with-appendix.tex",
+        "arxiv_id": "acl_20/2005.05763"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.05189/appendix-case.png",
+        "caption": "Weight distribution of the two cases from the sentence-level attention.",
+        "source": "acl_20/2005.05189/acl2020.tex",
+        "arxiv_id": "acl_20/2005.05189"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.05189/statistic.png",
+        "caption": "Evolution of evidence predictions on the development set of CoQA. From the inside to the outside, the four rings correspond to \\BERTHAtt (iteration 0) and \\BERTSelfCTM (iteration 1, 2, 3), respectively.",
+        "source": "acl_20/2005.05189/acl2020.tex",
+        "arxiv_id": "acl_20/2005.05189"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.04511/pca.png",
+        "caption": "Syntactic difference vectors visualized after dimensionality reduction with PCA, instead of tSNE, colored by UD dependency types. There are no significant trends evident.",
+        "source": "acl_20/2005.04511/Multilingual Probing ACL Submission/main_appendix.tex",
+        "arxiv_id": "acl_20/2005.04511"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.04511/multilingual-all.png",
+        "caption": "tSNE visualization of head-dependent pairs dependencies projected into the cross-lingual syntactic subspace of Multilingual BERT\\@. Colors correspond to gold UD dependency type labels. Although neither mBERT nor our probe is ever trained on UD dependency labels, the clusters in the learned representation substantially capture human analyses of dependency types.",
+        "source": "acl_20/2005.04511/Multilingual Probing ACL Submission/main_appendix.tex",
+        "arxiv_id": "acl_20/2005.04511"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.04511/multilingual-all.png",
+        "caption": "t-SNE visualization of dependency head-dependent pairs projected into the cross-lingual syntactic subspace of Multilingual BERT\\@. Colors correspond to gold UD dependency type labels, which are unlabeled given that there are 43 in this visualization.",
+        "source": "acl_20/2005.04511/Multilingual Probing ACL Submission/main.tex",
+        "arxiv_id": "acl_20/2005.04511"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.04511/pca.png",
+        "caption": "Syntactic difference vectors visualized after dimensionality reduction with PCA, instead of tSNE, colored by UD dependency types. There are no significant trends evident.",
+        "source": "acl_20/2005.04511/main_appendix.tex",
+        "arxiv_id": "acl_20/2005.04511"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.04511/multilingual-all.png",
+        "caption": "tSNE visualization of head-dependent pairs dependencies projected into the cross-lingual syntactic subspace of Multilingual BERT\\@. Colors correspond to gold UD dependency type labels. Although neither mBERT nor our probe is ever trained on UD dependency labels, the clusters in the learned representation substantially capture human analyses of dependency types.",
+        "source": "acl_20/2005.04511/main_appendix.tex",
+        "arxiv_id": "acl_20/2005.04511"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.04511/multilingual-all.png",
+        "caption": "t-SNE visualization of dependency head-dependent pairs projected into the cross-lingual syntactic subspace of Multilingual BERT\\@. Colors correspond to gold UD dependency type labels, which are unlabeled given that there are 43 in this visualization.",
+        "source": "acl_20/2005.04511/main.tex",
+        "arxiv_id": "acl_20/2005.04511"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.03624/modgen.png",
+        "caption": "\\small Our model (best seen in color). The blue dotted line encompasses the classifier. The red dotted line encompasses the generator. The orange layer in the model helps combine the outputs from the variational model and the original classifier.",
+        "source": "acl_20/2005.03624/acl2020.tex",
+        "arxiv_id": "acl_20/2005.03624"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.03593/f_interpolation_bird_basic_bw_alpha.png",
+        "caption": "Pretrained word embeddings. Elevation in perplexity over unperturbed transcript ($Po$) with the proportional contribution of a dementia model ($\\alpha$) to an interpolated model. Each point is the average of 268 data points, and error bars are not shown as they do not exceed the bounds of the markers.",
+        "source": "acl_20/2005.03593/acl2020.tex",
+        "arxiv_id": "acl_20/2005.03593"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.03593/two_perplexities_f.png",
+        "caption": "Relationship between log frequency bands used to replace words in synthetic Cookie Theft picture descriptions to simulate degrees of semantic dementia and perplexity of LSTM language models trained on picture descriptions by controls and dementia patients.",
+        "source": "acl_20/2005.03593/acl2020.tex",
+        "arxiv_id": "acl_20/2005.03593"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.03312/nakdan-makor-chopped.png",
+        "caption": "Integrated Biblical quote marked with font.",
+        "source": "acl_20/2005.03312/acl2020.tex",
+        "arxiv_id": "acl_20/2005.03312"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01619/avg_kp_coverage.png",
+        "caption": "Argument coverage per number of key points.",
+        "source": "acl_20/2005.01619/ACL 2020 key points camera ready clean margin fix/analysis.tex",
+        "arxiv_id": "acl_20/2005.01619"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01348/attn.png",
+        "caption": "Differences between attention weights for correct and incorrect referents; clusters are visible in the upper-right hand corner. Note the limited range expressed by the colourbar.",
+        "source": "acl_20/2005.01348/attention.tex",
+        "arxiv_id": "acl_20/2005.01348"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01306/economy_example.png",
+        "caption": "Economy comparison: Recall vs number of patterns, for the different representations.",
+        "source": "acl_20/2005.01306/pyBART.tex",
+        "arxiv_id": "acl_20/2005.01306"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01151/disChart3.png",
+        "caption": "Average label distribution of the entire corpus",
+        "source": "acl_20/2005.01151/acl2020.tex",
+        "arxiv_id": "acl_20/2005.01151"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01151/fontChart3.png",
+        "caption": "Label distributions for three examples",
+        "source": "acl_20/2005.01151/acl2020.tex",
+        "arxiv_id": "acl_20/2005.01151"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01151/fonts.jpg",
+        "caption": "Examples from our collected dataset visualized through fonts with the highest annotation agreements.",
+        "source": "acl_20/2005.01151/acl2020.tex",
+        "arxiv_id": "acl_20/2005.01151"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.01096/n_segment.png",
+        "caption": "\\small Average expected number of segments with varying hyperparameters. x-axis is the encoder/decoder hidden size and y-axis is the word embedding size. Upper two figures are without the granularity regularization and the bottom two are with regularization.",
+        "source": "acl_20/2005.01096/acl2020.tex",
+        "arxiv_id": "acl_20/2005.01096"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00912/Fig8.png",
+        "caption": "The percentage of AA$'$ papers in various citation bins. In parenthesis: \\#papers.",
+        "source": "acl_20/2005.00912/ACL2020-Citations_in_NLP.tex",
+        "arxiv_id": "acl_20/2005.00912"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00912/Fig7-stream-cut.png",
+        "caption": "Stream graph of \\#papers by \\#citations. The contribution of each venue and paper type is stacked one on top of another.",
+        "source": "acl_20/2005.00912/ACL2020-Citations_in_NLP.tex",
+        "arxiv_id": "acl_20/2005.00912"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00912/Fig6-citn-long-short.png",
+        "caption": "Citations box plots for long and short ACL papers published between 2003 and 2016.",
+        "source": "acl_20/2005.00912/ACL2020-Citations_in_NLP.tex",
+        "arxiv_id": "acl_20/2005.00912"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00912/Fig4-citn-time-cut.png",
+        "caption": "Citation box plots for journal articles and top-tier conference papers from various time spans.",
+        "source": "acl_20/2005.00912/ACL2020-Citations_in_NLP.tex",
+        "arxiv_id": "acl_20/2005.00912"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00912/Fig2-citn-overall-ptype-cut.png",
+        "caption": "Citation box plots for papers published 1965--2016: overall and by type.",
+        "source": "acl_20/2005.00912/ACL2020-Citations_in_NLP.tex",
+        "arxiv_id": "acl_20/2005.00912"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00812/screenshot_call.png",
+        "caption": "A speech sequence from our phone call dataset. Two audio segments are highlighted: a question (in blue) and a reported symptom (in yellow).",
+        "source": "acl_20/2005.00812/acl2020.tex",
+        "arxiv_id": "acl_20/2005.00812"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00456/mlm_score.png",
+        "caption": "Visualization of the masked language modelling (MLM) metric. Context words are in grey; response words are in red. The red words are masked, and RoBERTa must predict the likelihood of their true value (shown in green).",
+        "source": "acl_20/2005.00456/acl2020.tex",
+        "arxiv_id": "acl_20/2005.00456"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00436/time.png",
+        "caption": "The inference speed of our BiFlaG and compared models on GENIA test set. t/s indicates token per second.",
+        "source": "acl_20/2005.00436/acl2020.tex",
+        "arxiv_id": "acl_20/2005.00436"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00110/categorical_perception.png",
+        "caption": "Categorical perception effect, demonstrated by accuracy of object recovery using messages shifted between two `meanings'.",
+        "source": "acl_20/2005.00110/emergence_discrete.tex",
+        "arxiv_id": "acl_20/2005.00110"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00110/messages_o5_untrained.png",
+        "caption": "Sampled messages for contexts of 10 objects of size 5 for (a)~an untrained and (b)~a trained network. Colors represent the $f_i \\in F$ input part of the Sender.",
+        "source": "acl_20/2005.00110/emergence_discrete.tex",
+        "arxiv_id": "acl_20/2005.00110"
+    },
+    {
+        "figure_path": "acl_20_figures/2005.00110/model_figure_v2.png",
+        "caption": "Our model architecture, mixing terminology from the autoencoder and signaling game traditions.",
+        "source": "acl_20/2005.00110/emergence_discrete.tex",
+        "arxiv_id": "acl_20/2005.00110"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14675/exampleGold.png",
+        "caption": "Word alignment generated by a human annotator.",
+        "source": "acl_20/2004.14675/acl2020.tex",
+        "arxiv_id": "acl_20/2004.14675"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14302/boxplot.png",
+        "caption": "Box plot of Spearman's rank correlation coefficients between the ground-truth ranking and the rankings by RANDOM. A dot in blue indicates the correlation coefficient of CHOSEN.",
+        "source": "acl_20/2004.14302/acl2020_camera_ready.tex",
+        "arxiv_id": "acl_20/2004.14302"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14243/Ortho.png",
+        "caption": "Orthogonal LSTM: Hidden state at a timestep is orthogonal to the mean of previous hidden states",
+        "source": "acl_20/2004.14243/proposed_model.tex",
+        "arxiv_id": "acl_20/2004.14243"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14243/pos_3-2.png",
+        "caption": "Distribution of cumulative attention given to different part-of-speech tags in the test dataset. Blue and Orange indicate the vanilla and Diversity LSTMs.",
+        "source": "acl_20/2004.14243/experiments_transparency.tex",
+        "arxiv_id": "acl_20/2004.14243"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14243/final_importance_ranking_3_2.png",
+        "caption": "Box plots of fraction of hidden representations removed for a decision flip. Dataset and models are mentioned at the top and bottom of figures. Blue and Yellow indicate the attention and random ranking.",
+        "source": "acl_20/2004.14243/experiments_transparency.tex",
+        "arxiv_id": "acl_20/2004.14243"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14096/results_min_bert_combined.png",
+        "caption": "Probe results per framework, layer, and language, when trained on 3664 sentences. First row depicts UAS per layer and language for BERT, with average performance and error over UD/SUD in 3rd column. Bottom two row depicts the difference in UAS across UD ($+$) and SUD ($-$).",
+        "source": "acl_20/2004.14096/acl2020.tex",
+        "arxiv_id": "acl_20/2004.14096"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14096/graph_stats_combined.png",
+        "caption": "UAS across sentence length bins (top); F1 across varying dependency lengths (middle); F1 across varying distances to root (bottom)",
+        "source": "acl_20/2004.14096/acl2020.tex",
+        "arxiv_id": "acl_20/2004.14096"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.14096/postag_all_nodiff.png",
+        "caption": "UAS accuracy for the average models (BERT 13, ELMo 3) on incoming dependencies of different part-of-speech categories.",
+        "source": "acl_20/2004.14096/acl2020.tex",
+        "arxiv_id": "acl_20/2004.14096"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.13671/closure_runtimes.png",
+        "caption": "Under each closure algorithm, the time to compute the closure after the next annotation is added, as \\# of existing annotations increases.",
+        "source": "acl_20/2004.13671/supplementary_material.tex",
+        "arxiv_id": "acl_20/2004.13671"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.12239/loss.png",
+        "caption": "Loss on development set on IMDB and Yahoo! Answer in each epoch while training with 200 labeled data and 5000 unlabeled data per class.",
+        "source": "acl_20/2004.12239/MixText v2/acl2020.tex",
+        "arxiv_id": "acl_20/2004.12239"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.12239/loss.png",
+        "caption": "Loss on development set on IMDB and Yahoo! Answer in each epoch while training with 200 labeled data and 5000 unlabeled data per class.",
+        "source": "acl_20/2004.12239/acl2020.tex",
+        "arxiv_id": "acl_20/2004.12239"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.11892/effect_of_data.png",
+        "caption": "A comparison of the effect of the size of synthetic data on downstream QA performance.",
+        "source": "acl_20/2004.11892/acl2020.tex",
+        "arxiv_id": "acl_20/2004.11892"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.11054/dialog_diagram2_thick.png",
+        "caption": "Illustration of reinforcement learning for dialog management. The agent (top right) interacts with the environment (left) by taking actions, and observing the resulting new state and reward. DQfD and RoFL RL agents are guided by an expert demonstrator (bottom right).",
+        "source": "acl_20/2004.11054/acl.tex",
+        "arxiv_id": "acl_20/2004.11054"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10964/domains_intuition.png",
+        "caption": "An illustration of data distributions. Task data is comprised of an observable task distribution, usually non-randomly sampled from a wider distribution (light grey ellipsis) within an even larger target domain, which is not necessarily one of the domains included in the original LM pretraining domain -- though overlap is possible. We explore the benefits of continued pretraining on data from the task distribution and the domain distribution.",
+        "source": "acl_20/2004.10964/1_intro.tex",
+        "arxiv_id": "acl_20/2004.10964"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10813/freq_analysis_different_domain.png",
+        "caption": "BLI performance on the top 500 frequent and rare words in the different domain setting.",
+        "source": "acl_20/2004.10813/acl2020_mine.tex",
+        "arxiv_id": "acl_20/2004.10813"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10813/freq_analysis_same_domain.png",
+        "caption": "BLI performance with the top 500 frequent and rare words in the comparable setting.",
+        "source": "acl_20/2004.10813/acl2020_mine.tex",
+        "arxiv_id": "acl_20/2004.10813"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10813/news_configurable.png",
+        "caption": "BLI performance in the different domain setting.",
+        "source": "acl_20/2004.10813/acl2020_mine.tex",
+        "arxiv_id": "acl_20/2004.10813"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10813/wiki_comp_configurable.png",
+        "caption": "BLI performance in the comparable setting.",
+        "source": "acl_20/2004.10813/acl2020_mine.tex",
+        "arxiv_id": "acl_20/2004.10813"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10454/ADR_AC.png",
+        "caption": "Attention density ratio $R(p)$ for NMT, ASR and TTS tasks under different $p$ with and without alignment constraint (AC).",
+        "source": "acl_20/2004.10454/acl2020.tex",
+        "arxiv_id": "acl_20/2004.10454"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10454/ADR_KD.png",
+        "caption": "Attention density ratio $R(p)$ for NMT and TTS tasks under different $p$ with and without knowledge distillation, where ``KD\" means knowledge distillation.",
+        "source": "acl_20/2004.10454/acl2020.tex",
+        "arxiv_id": "acl_20/2004.10454"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.10454/ADR_NOKD.png",
+        "caption": "Attention density ratio $R(p)$ under different $p$ in different tasks for performance gap analysis.",
+        "source": "acl_20/2004.10454/acl2020.tex",
+        "arxiv_id": "acl_20/2004.10454"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.09036/datasize_variation.jpeg",
+        "caption": "Trends of AOR (Average Off-topic Recall) on seen and unseen prompts with datasize variation.",
+        "source": "acl_20/2004.09036/acl2020.tex",
+        "arxiv_id": "acl_20/2004.09036"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.09036/good_original_resp_distribution.png",
+        "caption": "True resp distribution on clear-semantic topic prompt.",
+        "source": "acl_20/2004.09036/acl2020.tex",
+        "arxiv_id": "acl_20/2004.09036"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.09036/attention_prompts.png",
+        "caption": "Attention on the prompt.",
+        "source": "acl_20/2004.09036/acl2020.tex",
+        "arxiv_id": "acl_20/2004.09036"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.08500/break_h.png",
+        "caption": "Intuition of the supports of $A,B$ and $C$.",
+        "source": "acl_20/2004.08500/anbn.tex",
+        "arxiv_id": "acl_20/2004.08500"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.08097/plot-a-times-gpu.png",
+        "caption": "Running times according to the number of words for biLM and T-TA on GPU-augmented environment.",
+        "source": "acl_20/2004.08097/plot-a-times-gpu.tex",
+        "arxiv_id": "acl_20/2004.08097"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.08097/plot-a-times-cpu-unilm.png",
+        "caption": "Running times according to the number of words for uniLM and T-TA.",
+        "source": "acl_20/2004.08097/plot-a-times-cpu-unilm.tex",
+        "arxiv_id": "acl_20/2004.08097"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.07667/comparison-bert_small.png",
+        "caption": "t-SNE projection of BERT representations for the profession ``professor\" (left) and for a random sample of all professions (right), before and after the projection.",
+        "source": "acl_20/2004.07667/main.tex",
+        "arxiv_id": "acl_20/2004.07667"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.07667/nullspace-projection.png",
+        "caption": "Nullspace projection for a 2-dimensional binary classifier. The decision boundary of $W$ is $W$ 's null-space.",
+        "source": "acl_20/2004.07667/main.tex",
+        "arxiv_id": "acl_20/2004.07667"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.07180/tsne_citerator.png",
+        "caption": "\\sys",
+        "source": "acl_20/2004.07180/5-analysis.tex",
+        "arxiv_id": "acl_20/2004.07180"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.04494/length.png",
+        "caption": "Ablation of context information. w/o context means all contexts are removed, so models just predict correct choice based on four candidates. context-n denotes the earlist n utterances are removed.",
+        "source": "acl_20/2004.04494/discussion.tex",
+        "arxiv_id": "acl_20/2004.04494"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.04305/cl-architecture-small.png",
+        "caption": "The architecture of Conversation Learner (Top) and the development of DMs using Conversation Learner (Bottom).",
+        "source": "acl_20/2004.04305/acl2020.tex",
+        "arxiv_id": "acl_20/2004.04305"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.04100/turn2topic_bar.png",
+        "caption": "Statistics of the number of dialogues where at least $k (k=2,3,4)$ topics have been discussed in the first $n$ turns. The proportions of dialogues that contain 3 or 4 topics become larger when the dialog turn becomes longer.",
+        "source": "acl_20/2004.04100/acl2020.tex",
+        "arxiv_id": "acl_20/2004.04100"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/verbs_implicature_results.png",
+        "caption": "Results for the scalar implicatures triggered by verbs, by target condition.",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/numerals_implicature_results.png",
+        "caption": "Results for the scalar triggered by numerals, by target condition.",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/modals_implicature_results.png",
+        "caption": "Results for the scalar implicatures triggered by modals, by target condition.",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/determiners_implicature_results.png",
+        "caption": "Results for the scalar implicatures triggered by determiners, by target condition.",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/presupposition_projection_results.png",
+        "caption": "Results for presupposition target conditions involving projection.",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/presupposition_trigger_results.png",
+        "caption": "Results for the unembedded trigger paired with positive presupposition.",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/presupposition_controls.png",
+        "caption": "Results on Controls (Presuppositions).",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.03066/implicature_controls.png",
+        "caption": "Results on Controls (Implicatures)",
+        "source": "acl_20/2004.03066/naaclhlt2018.tex",
+        "arxiv_id": "acl_20/2004.03066"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.02015/AOPC_bert_imdb.png",
+        "caption": "The AOPC and log-odds for BERT on the IMDB dataset.",
+        "source": "acl_20/2004.02015/appendix.tex",
+        "arxiv_id": "acl_20/2004.02015"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.02015/AOPC_bert_sst.png",
+        "caption": "The AOPC and log-odds for BERT on the SST dataset.",
+        "source": "acl_20/2004.02015/appendix.tex",
+        "arxiv_id": "acl_20/2004.02015"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.02015/AOPC_cnn_imdb.png",
+        "caption": "The AOPC and log-odds for CNN on the IMDB dataset.",
+        "source": "acl_20/2004.02015/appendix.tex",
+        "arxiv_id": "acl_20/2004.02015"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.02015/AOPC_cnn_sst.png",
+        "caption": "The AOPC and log-odds for CNN on the SST dataset.",
+        "source": "acl_20/2004.02015/appendix.tex",
+        "arxiv_id": "acl_20/2004.02015"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.02015/AOPC_lstm_imdb.png",
+        "caption": "The AOPC and log-odds for LSTM on the IMDB dataset.",
+        "source": "acl_20/2004.02015/appendix.tex",
+        "arxiv_id": "acl_20/2004.02015"
+    },
+    {
+        "figure_path": "acl_20_figures/2004.02015/AOPC_lstm_sst.png",
+        "caption": "The AOPC and log-odds for LSTM on the SST dataset.",
+        "source": "acl_20/2004.02015/appendix.tex",
+        "arxiv_id": "acl_20/2004.02015"
+    },
+    {
+        "figure_path": "acl_20_figures/2002.04793/framework.jpeg",
+        "caption": "Framework of \\toolkitname. The top block shows different approaches to build a dialogue system.",
+        "source": "acl_20/2002.04793/ms.tex",
+        "arxiv_id": "acl_20/2002.04793"
+    },
+    {
+        "figure_path": "acl_20_figures/2002.02031/regression-big.png",
+        "caption": "Results of re-training BERT funniness regression as more data becomes available in FunLines.",
+        "source": "acl_20/2002.02031/sec5-experiments.tex",
+        "arxiv_id": "acl_20/2002.02031"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.03850/BinomialQACompare_posterior_theta2.png",
+        "caption": "Posterior distributions of two systems (bottom row) and their difference (top row) after observing the performances on both datasets.",
+        "source": "acl_20/1911.03850/main.tex",
+        "arxiv_id": "acl_20/1911.03850"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.03850/notation3.png",
+        "caption": "Progression of steps taken during a scientific assessment of claims from empirical observations.",
+        "source": "acl_20/1911.03850/main.tex",
+        "arxiv_id": "acl_20/1911.03850"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.03642/sec33fig2.png",
+        "caption": "Proportion of sentences corresponding to a given relation over total sentences in WikiGenderBias for each entity. This demonstrates that, of the entities we sampled to create WikiGenderBias, the spouse relation is expressed more often relative to the birthdate, birthplace, and hypernym relations in articles about female entities than in articles about male entities. Additionally, hypernym is mentioned more often relative to the other relations in articles about male entities than in articles about female entities.",
+        "source": "acl_20/1911.03642/acl2020.tex",
+        "arxiv_id": "acl_20/1911.03642"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02782/numeric_representations.png",
+        "caption": "Visualization of contextual representations from layer 9 of \\gorbert on numeric surface forms in a subsample of body text from \\gorc. Labels are heuristics based on token-level patterns.",
+        "source": "acl_20/1911.02782/main.tex",
+        "arxiv_id": "acl_20/1911.02782"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02782/oa_distro_percs.png",
+        "caption": "Distribution of papers by Microsoft Academic field of study.",
+        "source": "acl_20/1911.02782/main.tex",
+        "arxiv_id": "acl_20/1911.02782"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02707/central.png",
+        "caption": "Distribution of Attention Score. The distributions of Overall (all concepts of the certain part), Golden (concepts in the golden response) and Zero-hop (concepts appear in the post) are presented. The attention score is calculated by scaling the mean of attention scores of $n$ step decoding.",
+        "source": "acl_20/1911.02707/evaluation.tex",
+        "arxiv_id": "acl_20/1911.02707"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/wordlevelmix.png",
+        "caption": "Word-level mixing with 3 domains. For simplicity, we omit the subscripts $Q,i$.",
+        "source": "acl_20/1911.02692/tech report/methodology.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/gradientflow.png",
+        "caption": "Back-propagation for different embedding based methods.",
+        "source": "acl_20/1911.02692/tech report/experiment.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/prop.png",
+        "caption": "Domain proportions of a sentence pair for English-to-German task. White represents the News domain and black represents the TED domain. The domain proportions of both the encoder (bottom) and the decoder (top) are presented.",
+        "source": "acl_20/1911.02692/tech report/experiment.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/explain.png",
+        "caption": "Domain proportion of a sentence from the TED domain for English-to-French task. The domain proportion is extracted from all layers of the encoder.",
+        "source": "acl_20/1911.02692/tech report/experiment.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/wordlevelmix.png",
+        "caption": "Word-level mixing with 3 domains. For simplicity, we omit the subscripts $Q,i$.",
+        "source": "acl_20/1911.02692/methodology.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/gradientflow.png",
+        "caption": "Back-propagation for different embedding based methods.",
+        "source": "acl_20/1911.02692/experiment.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/prop.png",
+        "caption": "Domain proportions of a sentence pair for English-to-German task. White represents the News domain and black represents the TED domain. The domain proportions of both the encoder (bottom) and the decoder (top) are presented.",
+        "source": "acl_20/1911.02692/experiment.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/explain.png",
+        "caption": "Domain proportion of a sentence from the TED domain for English-to-French task. The domain proportion is extracted from all layers of the encoder.",
+        "source": "acl_20/1911.02692/experiment.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.02692/layernorm_variant.png",
+        "caption": "Two variants of layer normalization",
+        "source": "acl_20/1911.02692/appendix.tex",
+        "arxiv_id": "acl_20/1911.02692"
+    },
+    {
+        "figure_path": "acl_20_figures/1911.00536/sampleimage.png",
+        "caption": "Human evaluation template",
+        "source": "acl_20/1911.00536/LSP.tex",
+        "arxiv_id": "acl_20/1911.00536"
+    },
+    {
+        "figure_path": "acl_20_figures/1910.13267/compare_segm_len_cb.png",
+        "caption": "",
+        "source": "acl_20/1910.13267/experiments.tex",
+        "arxiv_id": "acl_20/1910.13267"
+    },
+    {
+        "figure_path": "acl_20_figures/1910.13267/corp_voc_size_v3.png",
+        "caption": "BLEU scores. Models trained on random subsets of WMT14 En-Fr.",
+        "source": "acl_20/1910.13267/experiments.tex",
+        "arxiv_id": "acl_20/1910.13267"
+    },
+    {
+        "figure_path": "acl_20_figures/1910.13267/rare_bpe.jpeg",
+        "caption": "BPE",
+        "source": "acl_20/1910.13267/analysis.tex",
+        "arxiv_id": "acl_20/1910.13267"
+    },
+    {
+        "figure_path": "acl_20_figures/1910.11476/freq_filter.png",
+        "caption": "Effect of varying percentage of training samples on Chinese OntoNotes 4.0. BERT-MRC can achieve the same F1-score comparing to BERT-Tagger with fewer training samples.",
+        "source": "acl_20/1910.11476/ner.tex",
+        "arxiv_id": "acl_20/1910.11476"
+    },
+    {
+        "figure_path": "acl_20_figures/1905.01978/tag.png",
+        "caption": "Details of Tag action tree",
+        "source": "acl_20/1905.01978/action_tree.tex",
+        "arxiv_id": "acl_20/1905.01978"
+    }
+]
